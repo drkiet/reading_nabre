@@ -1,0 +1,806 @@
+Day 186:
+
+Reading Proverbs, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: 
+    2: 
+1 
+A king’s heart is channeled water in the hand of the Lord;
+    God directs it where he pleases.
+2 
+All your ways may be straight in your own eyes,
+    but it is the Lord who weighs hearts.
+
+    3: 
+To do what is right and just
+    is more acceptable to the Lord than sacrifice.
+
+    4: 
+Haughty eyes and a proud heart—
+    the lamp of the wicked will fail.
+
+    5: 
+The plans of the diligent end in profit,
+    but those of the hasty end in loss.
+
+    6: 
+Trying to get rich by lying
+    is chasing a bubble over deadly snares.
+
+    7: 
+The violence of the wicked will sweep them away,
+    because they refuse to do what is right.
+
+    8: 
+One’s path may be winding and unfamiliar,
+    but one’s conduct is blameless and right.
+
+    9: It is better to dwell in a corner of the housetop
+    than in a mansion with a quarrelsome woman.
+
+    10: 
+The soul of the wicked desires evil;
+    their neighbor finds no pity in their eyes.
+
+    11: 
+When scoffers are punished the naive become wise;
+    when the wise succeed, they gain knowledge.
+
+    12: 
+The Righteous One appraises the house of the wicked,
+    bringing down the wicked to ruin.
+
+    13: 
+Those who shut their ears to the cry of the poor
+    will themselves call out and not be answered.
+
+    14: 
+A secret gift allays anger,
+    and a present concealed, violent wrath.
+
+    15: 
+When justice is done it is a joy for the just,
+    downfall for evildoers.
+
+    16: 
+Whoever strays from the way of good sense
+    will abide in the assembly of the shades.
+
+    17: 
+The lover of pleasure will suffer want;
+    the lover of wine and perfume will never be rich.
+
+    18: 
+The wicked serve as ransom for the just,
+    and the faithless for the upright.
+
+    19: 
+It is better to dwell in a wilderness
+    than with a quarrelsome wife and trouble.
+
+    20: 
+    21: 1 
+A king’s heart is channeled water in the hand of the Lord;
+    God directs it where he pleases.
+2 
+All your ways may be straight in your own eyes,
+    but it is the Lord who weighs hearts.
+3 
+To do what is right and just
+    is more acceptable to the Lord than sacrifice.[b]
+4 
+Haughty eyes and a proud heart—
+    the lamp of the wicked will fail.[c]
+5 
+The plans of the diligent end in profit,
+    but those of the hasty end in loss.[d]
+6 
+Trying to get rich by lying
+    is chasing a bubble over deadly snares.
+7 
+The violence of the wicked will sweep them away,
+    because they refuse to do what is right.
+8 
+One’s path may be winding and unfamiliar,
+    but one’s conduct is blameless and right.[e]
+9 
+It is better to dwell in a corner of the housetop
+    than in a mansion with a quarrelsome woman.[f]
+10 
+The soul of the wicked desires evil;
+    their neighbor finds no pity in their eyes.
+11 
+When scoffers are punished the naive become wise;
+    when the wise succeed, they gain knowledge.
+12 
+The Righteous One appraises the house of the wicked,
+    bringing down the wicked to ruin.[g]
+13 
+Those who shut their ears to the cry of the poor
+    will themselves call out and not be answered.
+14 
+A secret gift allays anger,
+    and a present concealed, violent wrath.[h]
+15 
+When justice is done it is a joy for the just,
+    downfall for evildoers.[i]
+16 
+Whoever strays from the way of good sense
+    will abide in the assembly of the shades.[j]
+17 
+The lover of pleasure will suffer want;
+    the lover of wine and perfume will never be rich.
+18 
+The wicked serve as ransom for the just,
+    and the faithless for the upright.[k]
+19 
+It is better to dwell in a wilderness
+    than with a quarrelsome wife and trouble.
+20 
+Precious treasure and oil are in the house of the wise,
+    but the fool consumes them.
+21 
+Whoever pursues justice and kindness
+    will find life and honor.[l]
+
+    22: 
+The wise person storms the city of the mighty,
+    and overthrows the stronghold in which they trust.
+
+    23: 
+Those who guard mouth and tongue
+    guard themselves from trouble.
+
+    24: 
+Proud, boastful—scoffer is the name:
+    those who act with overbearing pride.
+
+    25: 
+The desire of sluggards will slay them,
+    for their hands refuse to work.
+
+    26: 
+Some are consumed with avarice all the day,
+    but the just give unsparingly.
+
+    27: 
+The sacrifice of the wicked is an abomination,
+    the more so when they offer it with bad intent.
+
+    28: 
+The false witness will perish,
+    but one who listens will give lasting testimony.
+
+    29: 
+The face of the wicked hardens,
+    but the upright maintains a straight course.
+
+    30: 
+No wisdom, no understanding,
+    no counsel prevail against the Lord.
+
+    31: 
+The horse is equipped for the day of battle,
+    but victory is the Lord’s.
+
+
+  Chapter 22.
+
+    1: 
+    2: 
+1 
+A good name is more desirable than great riches,
+    and high esteem, than gold and silver.
+2 
+Rich and poor have a common bond:
+    the Lord is the maker of them all.
+
+    3: 
+The astute see an evil and hide,
+    while the naive continue on and pay the penalty.
+
+    4: 
+The result of humility and fear of the Lord
+    is riches, honor and life.
+
+    5: 
+Thorns and snares are on the path of the crooked;
+    those who would safeguard their lives will avoid them.
+
+    6: 
+Train the young in the way they should go;
+    even when old, they will not swerve from it.
+
+    7: 
+The rich rule over the poor,
+    and the borrower is the slave of the lender.
+
+    8: 
+Those who sow iniquity reap calamity,
+    and the rod used in anger will fail.
+
+    9: The generous will be blessed,
+    for they share their food with the poor.
+
+    10: 
+Expel the arrogant and discord goes too;
+    strife and insult cease.
+
+    11: 
+The Lord loves the pure of heart;
+    the person of winning speech has a king for a friend.
+
+    12: 
+The eyes of the Lord watch over the knowledgeable,
+    but he defeats the projects of the faithless.
+
+    13: 
+The sluggard says, “A lion is outside;
+    I might be slain in the street.”
+
+    14: 
+The mouth of the foreign woman is a deep pit;
+    whoever incurs the Lord’s anger will fall into it.
+
+    15: 
+Folly is bound to the heart of a youth,
+    but the rod of discipline will drive it out.
+
+    16: 
+Oppressing the poor for enrichment,
+    giving to the rich: both are sheer loss.
+IV. Sayings of the Wise[j]
+
+    17: 
+    The Words of the Wise:
+Incline your ear, and hear my words,
+    and let your mind attend to my teaching;
+
+    18: 
+For it will be well if you hold them within you,
+    if they all are ready on your lips.
+
+    19: 
+That your trust may be in the Lord,
+    I make them known to you today—yes, to you.
+
+    20: 
+Have I not written for you thirty sayings,
+    containing counsels and knowledge,
+
+    21: 
+    22: 1 
+A good name is more desirable than great riches,
+    and high esteem, than gold and silver.
+2 
+Rich and poor have a common bond:
+    the Lord is the maker of them all.
+3 
+The astute see an evil and hide,
+    while the naive continue on and pay the penalty.[b]
+4 
+The result of humility and fear of the Lord
+    is riches, honor and life.[c]
+5 
+Thorns and snares are on the path of the crooked;
+    those who would safeguard their lives will avoid them.
+6 
+Train the young in the way they should go;
+    even when old, they will not swerve from it.[d]
+7 
+The rich rule over the poor,
+    and the borrower is the slave of the lender.[e]
+8 
+Those who sow iniquity reap calamity,
+    and the rod used in anger will fail.[f]
+9 
+The generous will be blessed,
+    for they share their food with the poor.
+10 
+Expel the arrogant and discord goes too;
+    strife and insult cease.
+11 
+The Lord loves the pure of heart;
+    the person of winning speech has a king for a friend.
+12 
+The eyes of the Lord watch over the knowledgeable,
+    but he defeats the projects of the faithless.
+13 
+The sluggard says, “A lion is outside;
+    I might be slain in the street.”[g]
+14 
+The mouth of the foreign woman is a deep pit;
+    whoever incurs the Lord’s anger will fall into it.
+15 
+Folly is bound to the heart of a youth,
+    but the rod of discipline will drive it out.[h]
+16 
+Oppressing the poor for enrichment,
+    giving to the rich: both are sheer loss.[i]
+IV. Sayings of the Wise[j]
+17 
+    The Words of the Wise:[k]
+Incline your ear, and hear my words,
+    and let your mind attend to my teaching;
+18 
+For it will be well if you hold them within you,
+    if they all are ready on your lips.
+19 
+That your trust may be in the Lord,
+    I make them known to you today—yes, to you.
+20 
+Have I not written for you thirty sayings,
+    containing counsels and knowledge,
+21 
+To teach you truly
+    how to give a dependable report to one who sends you?
+22 
+Do not rob the poor because they are poor,
+    nor crush the needy at the gate;[l]
+
+    23: 
+For the Lord will defend their cause,
+    and will plunder those who plunder them.
+
+    24: 
+Do not be friendly with hotheads,
+    nor associate with the wrathful,
+
+    25: 
+Lest you learn their ways,
+    and become ensnared.
+
+    26: 
+Do not be one of those who give their hand in pledge,
+    those who become surety for debts;
+
+    27: 
+For if you are unable to pay,
+    your bed will be taken from under you.
+
+    28: 
+Do not remove the ancient landmark
+    that your ancestors set up.
+
+    29: 
+Do you see those skilled at their work?
+    They will stand in the presence of kings,
+    but not in the presence of the obscure.
+
+
+  Chapter 23.
+
+    1: 
+    2: 
+    3: 1 
+When you sit down to dine with a ruler,
+    mark well the one who is before you;
+2 
+Stick the knife in your gullet[b]
+    if you have a ravenous appetite.
+3 
+Do not desire his delicacies;
+    it is food that deceives.
+
+    4: 
+Do not wear yourself out to gain wealth,
+    cease to be worried about it;
+
+    5: 
+When your glance flits to it, it is gone!
+    For assuredly it grows wings,
+    like the eagle that flies toward heaven.
+
+    6: 
+Do not take food with unwilling hosts,
+    and do not desire their delicacies;
+
+    7: 
+For like something stuck in the throat is that food.
+“Eat and drink,” they say to you,
+    but their hearts are not with you;
+
+    8: 
+The little you have eaten you will vomit up,
+    and you will have wasted your agreeable words.
+
+    9: Do not speak in the hearing of fools;
+    they will despise the wisdom of your words.
+
+    10: 
+Do not remove the ancient landmark,
+    nor invade the fields of the fatherless;
+
+    11: 
+For their redeemer is strong;
+    he will defend their cause against you.
+
+    12: 
+Apply your heart to instruction,
+    and your ear to words of knowledge.
+
+    13: 
+Do not withhold discipline from youths;
+    if you beat them with the rod, they will not die.
+
+    14: 
+Beat them with the rod,
+    and you will save them from Sheol.
+
+    15: 
+My son, if your heart is wise,
+    my heart also will rejoice;
+
+    16: 
+And my inmost being will exult,
+    when your lips speak what is right.
+
+    17: 
+Do not let your heart envy sinners,
+    but only those who always fear the Lord;
+
+    18: 
+For you will surely have a future,
+    and your hope will not be cut off.
+
+    19: 
+Hear, my son, and be wise,
+    and guide your heart in the right way.
+
+    20: 
+Do not join with wine bibbers,
+    nor with those who glut themselves on meat.
+
+    21: 
+For drunkards and gluttons come to poverty,
+    and lazing about clothes one in rags.
+
+    22: 
+    23: 1 
+When you sit down to dine with a ruler,
+    mark well the one who is before you;
+2 
+Stick the knife in your gullet[b]
+    if you have a ravenous appetite.
+3 
+Do not desire his delicacies;
+    it is food that deceives.
+4 
+Do not wear yourself out to gain wealth,
+    cease to be worried about it;
+5 
+When your glance flits to it, it is gone!
+    For assuredly it grows wings,
+    like the eagle that flies toward heaven.[c]
+6 
+[d]Do not take food with unwilling hosts,
+    and do not desire their delicacies;
+7 
+For like something stuck in the throat is that food.
+“Eat and drink,” they say to you,
+    but their hearts are not with you;
+8 
+The little you have eaten you will vomit up,
+    and you will have wasted your agreeable words.
+9 
+Do not speak in the hearing of fools;
+    they will despise the wisdom of your words.
+10 
+Do not remove the ancient landmark,
+    nor invade the fields of the fatherless;[e]
+11 
+For their redeemer is strong;
+    he will defend their cause against you.
+12 
+Apply your heart to instruction,
+    and your ear to words of knowledge.
+13 
+[f]Do not withhold discipline from youths;
+    if you beat them with the rod, they will not die.
+14 
+Beat them with the rod,
+    and you will save them from Sheol.
+15 
+My son, if your heart is wise,
+    my heart also will rejoice;
+16 
+And my inmost being will exult,
+    when your lips speak what is right.
+17 
+Do not let your heart envy sinners,
+    but only those who always fear the Lord;[g]
+18 
+For you will surely have a future,
+    and your hope will not be cut off.
+19 
+Hear, my son, and be wise,
+    and guide your heart in the right way.
+20 
+Do not join with wine bibbers,
+    nor with those who glut themselves on meat.
+21 
+For drunkards and gluttons come to poverty,
+    and lazing about clothes one in rags.
+22 
+[h]Listen to your father who begot you,
+    do not despise your mother when she is old.
+23 
+Buy truth and do not sell:
+    wisdom, instruction, understanding!
+
+    24: 
+The father of a just person will exult greatly;
+    whoever begets a wise son will rejoice in him.
+
+    25: 
+Let your father and mother rejoice;
+    let her who bore you exult.
+
+    26: 
+My son, give me your heart,
+    and let your eyes keep to my ways,
+
+    27: 
+For the harlot is a deep pit,
+    and the foreign woman a narrow well;
+
+    28: 
+Yes, she lies in wait like a robber,
+    and increases the number of the faithless.
+
+    29: 
+Who scream? Who shout?
+    Who have strife? Who have anxiety?
+Who have wounds for nothing?
+    Who have bleary eyes?
+
+    30: 
+Whoever linger long over wine,
+    whoever go around quaffing wine.
+
+    31: 
+Do not look on the wine when it is red,
+    when it sparkles in the cup.
+It goes down smoothly,
+
+    32: 
+    but in the end it bites like a serpent,
+    and stings like an adder.
+
+    33: 
+Your eyes behold strange sights,
+    and your heart utters incoherent things;
+
+    34: 
+You are like one sleeping on the high seas,
+    sprawled at the top of the mast.
+
+    35: 
+“They struck me, but it did not pain me;
+    they beat me, but I did not feel it.
+When can I get up,
+    when can I go out and get more?”
+
+
+  Chapter 24.
+
+    1: 
+    2: 
+1 
+Do not envy the wicked,
+    nor desire to be with them;
+2 
+For their hearts plot violence,
+    and their lips speak of foul play.
+
+    3: 
+    4: 1 
+Do not envy the wicked,
+    nor desire to be with them;
+2 
+For their hearts plot violence,
+    and their lips speak of foul play.
+3 
+By wisdom a house is built,
+    by understanding it is established;
+4 
+And by knowledge its rooms are filled
+    with every precious and pleasing possession.
+
+    5: 
+The wise are more powerful than the strong,
+    and the learned, than the mighty,
+
+    6: 
+For by strategy war is waged,
+    and victory depends on many counselors.
+
+    7: 
+Wise words are beyond fools’ reach,
+    in the assembly they do not open their mouth;
+
+    8: 
+As they calculate how to do evil,
+    people brand them troublemakers.
+
+    9: The scheme of a fool gains no acceptance,
+    the scoffer is an abomination to the community.
+
+    10: 
+Did you fail in a day of adversity,
+    did your strength fall short?
+
+    11: 
+Did you fail to rescue those who were being dragged off to death,
+    those tottering, those near death,
+
+    12: 
+    because you said, “We didn’t know about it”?
+Surely, the Searcher of hearts knows
+    and will repay all according to their deeds.
+
+    13: 
+If you eat honey, my son, because it is good,
+    if pure honey is sweet to your taste,
+
+    14: 
+Such, you must know, is wisdom to your soul.
+If you find it, you will have a future,
+    and your hope will not be cut off.
+
+    15: 
+Do not lie in wait at the abode of the just,
+    do not ravage their dwelling places;
+
+    16: 
+Though the just fall seven times, they rise again,
+    but the wicked stumble from only one mishap.
+
+    17: 
+Do not rejoice when your enemies fall,
+    and when they stumble, do not let your heart exult,
+
+    18: 
+Lest the Lord see it, be displeased with you,
+    and withdraw his wrath from your enemies.
+
+    19: 
+Do not be provoked at evildoers,
+    do not envy the wicked;
+
+    20: 
+For the evil have no future,
+    the lamp of the wicked will be put out.
+
+    21: 
+My son, fear the Lord and the king;
+    have nothing to do with those who hate them;
+
+    22: 
+For disaster will issue suddenly,
+    and calamity from them both, who knows when?
+V. Further Sayings of the Wise
+
+    23: 
+    24: 1 
+Do not envy the wicked,
+    nor desire to be with them;
+2 
+For their hearts plot violence,
+    and their lips speak of foul play.
+3 
+By wisdom a house is built,
+    by understanding it is established;
+4 
+And by knowledge its rooms are filled
+    with every precious and pleasing possession.
+5 
+The wise are more powerful than the strong,
+    and the learned, than the mighty,
+6 
+For by strategy war is waged,
+    and victory depends on many counselors.
+7 
+[b]Wise words are beyond fools’ reach,
+    in the assembly they do not open their mouth;
+8 
+As they calculate how to do evil,
+    people brand them troublemakers.
+9 
+The scheme of a fool gains no acceptance,
+    the scoffer is an abomination to the community.
+10 
+[c]Did you fail in a day of adversity,
+    did your strength fall short?
+11 
+Did you fail to rescue those who were being dragged off to death,[d]
+    those tottering, those near death,
+12 
+    because you said, “We didn’t know about it”?
+Surely, the Searcher of hearts knows
+    and will repay all according to their deeds.
+13 
+[e]If you eat honey, my son, because it is good,
+    if pure honey is sweet to your taste,
+14 
+Such, you must know, is wisdom to your soul.
+If you find it, you will have a future,
+    and your hope will not be cut off.
+15 
+[f]Do not lie in wait at the abode of the just,
+    do not ravage their dwelling places;
+16 
+Though the just fall seven times, they rise again,
+    but the wicked stumble from only one mishap.
+17 
+[g]Do not rejoice when your enemies fall,
+    and when they stumble, do not let your heart exult,
+18 
+Lest the Lord see it, be displeased with you,
+    and withdraw his wrath from your enemies.
+19 
+Do not be provoked at evildoers,
+    do not envy the wicked;
+20 
+For the evil have no future,
+    the lamp of the wicked will be put out.
+21 
+My son, fear the Lord and the king;
+    have nothing to do with those who hate them;
+22 
+For disaster will issue suddenly,
+    and calamity from them both, who knows when?
+V. Further Sayings of the Wise[h]
+23 
+These also are Words of the Wise:
+To show partiality in judgment is not good.
+24 
+Whoever says to the guilty party, “You are innocent,”
+    will be cursed by nations, scorned by peoples;
+
+    25: 
+But those who render just verdicts will fare well,
+    and on them will come the blessing of prosperity.
+
+    26: 
+An honest reply—
+    a kiss on the lips.
+
+    27: 
+Complete your outdoor tasks,
+    and arrange your work in the field;
+    afterward you can build your house.
+
+    28: 
+Do not testify falsely against your neighbor
+    and so deceive with your lips.
+
+    29: 
+Do not say, “As they did to me, so will I do to them;
+    I will repay them according to their deeds.”
+
+    30: 
+I passed by the field of a sluggard,
+    by the vineyard of one with no sense;
+
+    31: 
+It was all overgrown with thistles;
+    its surface was covered with nettles,
+    and its stone wall broken down.
+
+    32: 
+As I gazed at it, I reflected;
+    I saw and learned a lesson:
+
+    33: 
+A little sleep, a little slumber,
+    a little folding of the arms to rest—
+
+    34: 
+Then poverty will come upon you like a robber,
+    and want like a brigand.
+
+
+End of day 186.

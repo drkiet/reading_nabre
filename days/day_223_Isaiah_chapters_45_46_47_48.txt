@@ -1,0 +1,593 @@
+Day 223:
+
+Reading Isaiah, chapters ['45', '46', '47', '48']:
+
+  Chapter 45.
+
+    1: 
+Thus says the Lord to his anointed, Cyrus,
+    whose right hand I grasp,
+Subduing nations before him,
+    stripping kings of their strength,
+Opening doors before him,
+    leaving the gates unbarred:
+
+    2: 
+I will go before you
+    and level the mountains;
+Bronze doors I will shatter,
+    iron bars I will snap.
+
+    3: 
+    4: 
+    5: 1 
+Thus says the Lord to his anointed, Cyrus,
+    whose right hand I grasp,
+Subduing nations before him,
+    stripping kings of their strength,
+Opening doors before him,
+    leaving the gates unbarred:
+2 
+I will go before you
+    and level the mountains;
+Bronze doors[b] I will shatter,
+    iron bars I will snap.
+3 
+I will give you treasures of darkness,
+    riches hidden away,
+That you may know I am the Lord,
+    the God of Israel, who calls you by name.
+4 
+For the sake of Jacob, my servant,
+    of Israel my chosen one,
+I have called you by name,
+    giving you a title, though you do not know me.
+5 
+I am the Lord, there is no other,
+    there is no God besides me.
+It is I who arm you, though you do not know me,
+
+    6: 
+    so that all may know, from the rising of the sun
+    to its setting, that there is none besides me.
+I am the Lord, there is no other.
+
+    7: 
+    I form the light, and create the darkness,
+I make weal and create woe;
+    I, the Lord, do all these things.
+
+    8: 
+Let justice descend, you heavens, like dew from above,
+    like gentle rain let the clouds drop it down.
+Let the earth open and salvation bud forth;
+    let righteousness spring up with them!
+    I, the Lord, have created this.
+
+    9: Woe to anyone who contends with their Maker;
+    a potsherd among potsherds of the earth!
+Shall the clay say to the potter, “What are you doing?”
+    or, “What you are making has no handles”?
+
+    10: 
+Woe to anyone who asks a father, “What are you begetting?”
+    or a woman, “What are you giving birth to?”
+
+    11: 
+Thus says the Lord,
+    the Holy One of Israel, his maker:
+Do you question me about my children,
+    tell me how to treat the work of my hands?
+
+    12: 
+It was I who made the earth
+    and created the people upon it;
+It was my hands that stretched out the heavens;
+    I gave the order to all their host.
+
+    13: 
+It was I who stirred him up for justice;
+    all his ways I make level.
+He shall rebuild my city
+    and let my exiles go free
+Without price or payment,
+    says the Lord of hosts.
+
+    14: 
+    Thus says the Lord:
+The earnings of Egypt, the gain of Ethiopia,
+    and the Sabeans, tall of stature,
+Shall come over to you and belong to you;
+    they shall follow you, coming in chains.
+Before you they shall bow down,
+    saying in prayer:
+“With you alone is God; and there is none other,
+    no other god!
+
+    15: 
+Truly with you God is hidden,
+    the God of Israel, the savior!
+
+    16: 
+They are put to shame and disgrace, all of them;
+    they go in disgrace who carve images.
+
+    17: 
+Israel has been saved by the Lord,
+    saved forever!
+You shall never be put to shame or disgrace
+    in any future age.”
+
+    18: 
+    For thus says the Lord,
+The creator of the heavens,
+    who is God,
+The designer and maker of the earth
+    who established it,
+Not as an empty waste did he create it,
+    but designing it to be lived in:
+I am the Lord, and there is no other.
+
+    19: 
+    I have not spoken in secret
+    from some place in the land of darkness,
+I have not said to the descendants of Jacob,
+    “Look for me in an empty waste.”
+I, the Lord, promise justice,
+    I declare what is right.
+
+    20: 
+Come and assemble, gather together,
+    you fugitives from among the nations!
+They are without knowledge who bear wooden idols
+    and pray to gods that cannot save.
+
+    21: 
+Come close and declare;
+    let them take counsel together:
+Who announced this from the beginning,
+    declared it from of old?
+Was it not I, the Lord,
+    besides whom there is no other God?
+    There is no just and saving God but me.
+
+    22: 
+Turn to me and be safe,
+    all you ends of the earth,
+    for I am God; there is no other!
+
+    23: 
+By myself I swear,
+    uttering my just decree,
+    a word that will not return:
+To me every knee shall bend;
+    by me every tongue shall swear,
+
+    24: 
+Saying, “Only in the Lord
+    are just deeds and power.
+Before him in shame shall come
+    all who vent their anger against him.
+
+    25: 
+In the Lord all the descendants of Israel
+    shall have vindication and glory.”
+
+
+  Chapter 46.
+
+    1: 
+Bel bows down, Nebo stoops,
+    their idols set upon beasts and cattle;
+They must be borne upon shoulders,
+    a load for weary animals.
+
+    2: 
+They stoop and bow down together;
+    unable to deliver those who bear them,
+    they too go into captivity.
+
+    3: 
+    4: 
+The Gods of Babylon
+1 
+Bel bows down, Nebo stoops,
+    their idols set upon beasts and cattle;
+They must be borne upon shoulders,
+    a load for weary animals.
+2 
+They stoop and bow down together;
+    unable to deliver those who bear them,
+    they too go into captivity.
+3 
+Hear me, O house of Jacob,
+    all the remnant of the house of Israel,
+My burden from the womb,
+    whom I have carried since birth.
+4 
+Even to your old age I am he,
+    even when your hair is gray I will carry you;
+I have done this, and I will lift you up,
+    I will carry you to safety.
+
+    5: 
+    6: The Gods of Babylon
+1 
+Bel bows down, Nebo stoops,
+    their idols set upon beasts and cattle;
+They must be borne upon shoulders,
+    a load for weary animals.
+2 
+They stoop and bow down together;
+    unable to deliver those who bear them,
+    they too go into captivity.
+3 
+Hear me, O house of Jacob,
+    all the remnant of the house of Israel,
+My burden from the womb,
+    whom I have carried since birth.
+4 
+Even to your old age I am he,
+    even when your hair is gray I will carry you;
+I have done this, and I will lift you up,
+    I will carry you to safety.
+5 
+To whom would you liken me as an equal,
+    compare me, as though we were alike?
+6 
+There are those who pour out gold from a purse
+    and weigh out silver on the scales;
+They hire a goldsmith to make it into a god
+    before which they bow down in worship.
+
+    7: 
+They lift it to their shoulders to carry;
+    when they set it down, it stays,
+    and does not move from the place.
+They cry out to it, but it cannot answer;
+    it delivers no one from distress.
+
+    8: 
+Remember this and be firm,
+    take it to heart, you rebels;
+
+    9:     remember the former things, those long ago:
+I am God, there is no other;
+    I am God, there is none like me.
+
+    10: 
+At the beginning I declare the outcome;
+    from of old, things not yet done.
+I say that my plan shall stand,
+    I accomplish my every desire.
+
+    11: 
+I summon from the east a bird of prey,
+    from a distant land, one to carry out my plan.
+Yes, I have spoken, I will accomplish it;
+    I have planned it, and I will do it.
+
+    12: 
+Listen to me, you fainthearted,
+    far from the victory of justice:
+
+    13: 
+I am bringing on that victory, it is not far off,
+    my salvation shall not tarry;
+I will put salvation within Zion,
+    give to Israel my glory.
+
+
+  Chapter 47.
+
+    1: 
+Come down, sit in the dust,
+    virgin daughter Babylon;
+Sit on the ground, dethroned,
+    daughter of the Chaldeans.
+No longer shall you be called
+    dainty and delicate.
+
+    2: 
+Take the millstone and grind flour,
+    remove your veil;
+Strip off your skirt, bare your legs,
+    cross through the streams.
+
+    3: 
+    4: 
+The Fall of Babylon
+1 
+Come down, sit in the dust,
+    virgin daughter Babylon;
+Sit on the ground, dethroned,
+    daughter of the Chaldeans.
+No longer shall you be called
+    dainty and delicate.
+2 
+Take the millstone and grind flour,
+    remove your veil;
+Strip off your skirt, bare your legs,
+    cross through the streams.
+3 
+Your nakedness shall be uncovered,
+    and your shame be seen;
+I will take vengeance,
+    I will yield to no entreaty,
+    says 4 our redeemer,
+Whose name is the Lord of hosts,
+    the Holy One of Israel.
+
+    5: 
+Go into darkness and sit in silence,
+    daughter of the Chaldeans,
+No longer shall you be called
+    sovereign mistress of kingdoms.
+
+    6: 
+    7: The Fall of Babylon
+1 
+Come down, sit in the dust,
+    virgin daughter Babylon;
+Sit on the ground, dethroned,
+    daughter of the Chaldeans.
+No longer shall you be called
+    dainty and delicate.
+2 
+Take the millstone and grind flour,
+    remove your veil;
+Strip off your skirt, bare your legs,
+    cross through the streams.
+3 
+Your nakedness shall be uncovered,
+    and your shame be seen;
+I will take vengeance,
+    I will yield to no entreaty,
+    says 4 our redeemer,
+Whose name is the Lord of hosts,
+    the Holy One of Israel.
+5 
+Go into darkness and sit in silence,
+    daughter of the Chaldeans,
+No longer shall you be called
+    sovereign mistress of kingdoms.
+6 
+Angry at my people,
+    I profaned my heritage
+And gave them into your power;
+    but you showed them no mercy;
+Upon the aged
+    you laid a very heavy yoke.
+7 
+You said, “I shall remain always,
+    a sovereign mistress forever!”
+You did not take these things to heart,
+    but disregarded their outcome.
+
+    8: 
+Now hear this, voluptuous one,
+    enthroned securely,
+Saying in your heart,
+    “I, and no one else!
+I shall never be a widow,
+    bereft of my children”—
+
+    9: Both these things shall come to you
+    suddenly, in a single day:
+Complete bereavement and widowhood
+    shall come upon you
+Despite your many sorceries
+    and the full power of your spells;
+
+    10: 
+Secure in your wickedness,
+    you said, “No one sees me.”
+Your wisdom and your knowledge
+    led you astray,
+And you said in your heart,
+    “I, and no one else!”
+
+    11: 
+But upon you shall come an evil
+    you will not be able to charm away;
+Upon you shall fall a disaster
+    you cannot ward off.
+Upon you shall suddenly come
+    a ruin you cannot imagine.
+
+    12: 
+Keep on with your spells
+    and your many sorceries,
+    at which you toiled from your youth.
+Perhaps you can prevail,
+    perhaps you can strike terror!
+
+    13: 
+You wore yourself out with so many consultations!
+    Let the astrologers stand forth to save you,
+The stargazers who forecast at each new moon
+    what would happen to you.
+
+    14: 
+See, they are like stubble,
+    fire consumes them;
+They cannot deliver themselves
+    from the spreading flames.
+This is no warming ember,
+    no fire to sit before!
+
+    15: 
+Thus do your wizards serve you
+    with whom you have toiled from your youth;
+They wander their separate ways,
+    with none to save you.
+
+
+  Chapter 48.
+
+    1: 
+Hear this, house of Jacob
+    called by the name Israel,
+    sprung from the stock of Judah,
+You who swear by the name of the Lord
+    and invoke the God of Israel
+    without sincerity, without justice,
+
+    2: 
+Though you are named after the holy city
+    and rely on the God of Israel,
+    whose name is the Lord of hosts.
+
+    3: 
+    4: 
+Exhortations to the Exiles
+1 
+Hear this, house of Jacob
+    called by the name Israel,
+    sprung from the stock of Judah,
+You who swear by the name of the Lord
+    and invoke the God of Israel
+    without sincerity, without justice,
+2 
+Though you are named after the holy city
+    and rely on the God of Israel,
+    whose name is the Lord of hosts.
+3 
+Things of the past I declared long ago,
+    they went forth from my mouth, I announced them;
+    then suddenly I took action and they came to be.
+4 
+Because I know that you are stubborn
+    and that your neck is an iron sinew
+    and your forehead bronze,
+
+    5: 
+I declared them to you of old;
+    before they took place I informed you,
+That you might not say, “My idol did them,
+    my statue, my molten image commanded them.”
+
+    6: 
+Now that you have heard, look at all this;
+    must you not admit it?
+From now on I announce new things to you,
+    hidden events you never knew.
+
+    7: 
+    8: Exhortations to the Exiles
+1 
+Hear this, house of Jacob
+    called by the name Israel,
+    sprung from the stock of Judah,
+You who swear by the name of the Lord
+    and invoke the God of Israel
+    without sincerity, without justice,
+2 
+Though you are named after the holy city
+    and rely on the God of Israel,
+    whose name is the Lord of hosts.
+3 
+Things of the past I declared long ago,
+    they went forth from my mouth, I announced them;
+    then suddenly I took action and they came to be.
+4 
+Because I know that you are stubborn
+    and that your neck is an iron sinew
+    and your forehead bronze,
+5 
+I declared them to you of old;
+    before they took place I informed you,
+That you might not say, “My idol did them,
+    my statue, my molten image commanded them.”
+6 
+Now that you have heard, look at all this;
+    must you not admit it?
+From now on I announce new things to you,
+    hidden events you never knew.
+7 
+Now, not from of old, they are created,
+    before today you did not hear of them,
+    so that you cannot claim, “I have known them.”
+8 
+You never heard, you never knew,
+    they never reached your ears beforehand.
+Yes, I know you are utterly treacherous,
+    a rebel you were named from the womb.
+
+    9: For the sake of my name I restrain my anger,
+    for the sake of my renown I hold it back from you,
+    lest I destroy you.
+
+    10: 
+See, I refined you, but not like silver;
+    I tested you in the furnace of affliction.
+
+    11: 
+For my sake, for my own sake, I do this;
+    why should my name be profaned?
+    My glory I will not give to another.
+
+    12: 
+Listen to me, Jacob,
+    Israel, whom I called!
+I, it is I who am the first,
+    and am I the last.
+
+    13: 
+Yes, my hand laid the foundations of the earth;
+    my right hand spread out the heavens.
+When I summon them,
+    they stand forth at once.
+
+    14: 
+All of you assemble and listen:
+    Who among you declared these things?
+The one the Lord loves shall do his will
+    against Babylon and the offspring of Chaldea.
+
+    15: 
+I myself have spoken, I have summoned him,
+    I have brought him, and his way succeeds!
+
+    16: 
+Come near to me and hear this!
+    From the beginning I did not speak in secret;
+At the time it happens, I am there:
+    “Now the Lord God has sent me, and his spirit.”
+
+    17: 
+Thus says the Lord, your redeemer,
+    the Holy One of Israel:
+I am the Lord, your God,
+    teaching you how to prevail,
+    leading you on the way you should go.
+
+    18: 
+If only you would attend to my commandments,
+    your peace would be like a river,
+    your vindication like the waves of the sea,
+
+    19: 
+Your descendants like the sand,
+    the offspring of your loins like its grains,
+Their name never cut off
+    or blotted out from my presence.
+
+    20: 
+Go forth from Babylon, flee from Chaldea!
+    With shouts of joy declare this, announce it;
+Make it known to the ends of the earth,
+    Say: “The Lord has redeemed his servant Jacob.
+
+    21: 
+They did not thirst
+    when he led them through dry lands;
+Water from the rock he set flowing for them;
+    he cleft the rock, and waters welled forth.”
+
+    22: 
+There is no peace for the wicked,
+    says the Lord.
+
+
+End of day 223.

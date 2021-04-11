@@ -1,0 +1,264 @@
+Day 31:
+
+Reading Numbers, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The Census. 1 In the second year after the Israelites’ departure from the land of Egypt, on the first day of the second month, the Lord said to Moses at the tent of meeting in the wilderness of Sinai: 
+    2: Take a census of the whole community of the Israelites, by clans and ancestral houses, registering by name each male individually. 
+    3: You and Aaron shall enroll in companies all the men in Israel of twenty years or more who are fit for military service.
+Moses’ Assistants. 
+    4: With you there shall be a man from each tribe, each the head of his ancestral house. 
+    5: These are the names of those who are to assist you:
+from Reuben: Elizur, son of Shedeur;
+
+    6: from Simeon: Shelumiel, son of Zurishaddai;
+
+    7: from Judah: Nahshon, son of Amminadab;
+
+    8: from Issachar: Nethanel, son of Zuar;
+
+    9: rom Zebulun: Eliab, son of Helon;
+
+    10: for the descendants of Joseph: from Ephraim: Elishama, son of Ammihud; and from Manasseh: Gamaliel, son of Pedahzur;
+
+    11: from Benjamin: Abidan, son of Gideoni;
+
+    12: from Dan: Ahiezer, son of Ammishaddai;
+
+    13: from Asher: Pagiel, son of Ochran;
+
+    14: from Gad: Eliasaph, son of Reuel;
+
+    15: from Naphtali: Ahira, son of Enan.
+
+    16: These were the elect of the community, leaders of their ancestral tribes, heads of the clans of Israel. 
+    17: So Moses and Aaron took these men who had been designated by name, 
+    18: and assembled the whole community on the first day of the second month. Every man of twenty years or more then registered individually his name and lineage according to clan and ancestral house, 
+    19: as the Lord had commanded Moses. So he enrolled them in the wilderness of Sinai.
+Count of the Twelve Tribes. 
+    20: Of the descendants of Reuben, the firstborn of Israel, registered individually by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    21: those enrolled from the tribe of Reuben were forty-six thousand five hundred.
+
+    22: Of the descendants of Simeon, registered individually by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    23: those enrolled from the tribe of Simeon were fifty-nine thousand three hundred.
+
+    24: Of the descendants of Gad, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    25: those enrolled from the tribe of Gad were forty-five thousand six hundred and fifty.
+
+    26: Of the descendants of Judah, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    27: those enrolled from the tribe of Judah were seventy-four thousand six hundred.
+
+    28: Of the descendants of Issachar, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    29: those enrolled from the tribe of Issachar were fifty-four thousand four hundred.
+
+    30: Of the descendants of Zebulun, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    31: those enrolled from the tribe of Zebulun were fifty-seven thousand four hundred.
+
+    32: Of the descendants of Joseph:
+Of the descendants of Ephraim, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    33: those enrolled from the tribe of Ephraim were forty thousand five hundred.
+
+    34: Of the descendants of Manasseh, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    35: those enrolled from the tribe of Manasseh were thirty-two thousand two hundred.
+
+    36: Of the descendants of Benjamin, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    37: those enrolled from the tribe of Benjamin were thirty-five thousand four hundred.
+
+    38: Of the descendants of Dan, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    39: those enrolled from the tribe of Dan were sixty-two thousand seven hundred.
+
+    40: Of the descendants of Asher, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    41: those enrolled from the tribe of Asher were forty-one thousand five hundred.
+
+    42: Of the descendants of Naphtali, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: 
+    43: those enrolled from the tribe of Naphtali were fifty-three thousand four hundred.
+
+    44: It was these who were enrolled, each according to his ancestral house, by Moses and Aaron and the twelve leaders of Israel. 
+    45: The total enrollment of the Israelites of twenty years or more, according to their ancestral houses, everyone fit for military service in Israel— 
+    46: the total enrollment was six hundred and three thousand, five hundred and fifty.
+Levites Omitted in the Census. 
+    47: Now the Levites were not enrolled by their ancestral tribe with the others. 
+    48: For the Lord had told Moses, 
+    49: The tribe of Levi alone you shall not enroll nor include in the census along with the other Israelites. 
+    50: You are to give the Levites charge of the tabernacle of the covenant with all its equipment and all that belongs to it. It is they who shall carry the tabernacle with all its equipment and who shall be its ministers; and they shall camp all around the tabernacle. 
+    51: When the tabernacle is to move on, the Levites shall take it down; when the tabernacle is to be pitched, it is the Levites who shall set it up. Any unauthorized person who comes near it shall be put to death. 
+    52: The other Israelites shall camp according to their companies, each in their own divisional camps, 
+    53: but the Levites shall camp around the tabernacle of the covenant to ensure that God’s wrath will not fall upon the Israelite community. The Levites shall keep guard over the tabernacle of the covenant. 
+    54: The Israelites complied; they did just as the Lord had commanded Moses.
+
+
+  Chapter 2.
+
+    1: 
+    2: Arrangement of the Tribes. 1 The Lord said to Moses and Aaron: 2 The Israelites shall camp, each in their own divisions, under the ensigns of their ancestral houses. They shall camp at some distance all around the tent of meeting.
+
+    3: Encamped on the east side, toward the sunrise, shall be the divisional camp of Judah, arranged in companies. The leader of the Judahites is Nahshon, son of Amminadab, 
+    4: and the enrollment of his company is seventy-four thousand six hundred. 
+    5: Encamped beside it is the tribe of Issachar. The leader of the Issacharites is Nethanel, son of Zuar, 
+    6: and the enrollment of his company is fifty-four thousand four hundred. 
+    7: Also the tribe of Zebulun. The leader of the Zebulunites is Eliab, son of Helon, 
+    8: and the enrollment of his company is fifty-seven thousand four hundred. 
+    9: he total enrollment of the camp of Judah by companies is one hundred and eighty-six thousand four hundred. They shall be first on the march.
+
+    10: The divisional camp of Reuben shall be on the south side, by companies. The leader of the Reubenites is Elizur, son of Shedeur, 
+    11: and the enrollment of his company is forty-six thousand five hundred. 
+    12: Encamped beside it is the tribe of Simeon. The leader of the Simeonites is Shelumiel, son of Zurishaddai, 
+    13: and the enrollment of his company is fifty-nine thousand three hundred. 
+    14: Next is the tribe of Gad. The leader of the Gadites is Eliasaph, son of Reuel, 
+    15: and the enrollment of his company is forty-five thousand six hundred and fifty. 
+    16: The total enrollment of the camp of Reuben by companies is one hundred and fifty-one thousand four hundred and fifty. They shall be second on the march.
+
+    17: Then the tent of meeting and the camp of the Levites shall set out in the midst of the divisions. As they camp, so also they will march, each in place, by their divisions.
+
+    18: The divisional camp of Ephraim shall be on the west side, by companies. The leader of the Ephraimites is Elishama, son of Ammihud, 
+    19: and the enrollment of his company is forty thousand five hundred. 
+    20: Beside it shall be the tribe of Manasseh. The leader of the Manassites is Gamaliel, son of Pedahzur, 
+    21: and the enrollment of his company is thirty-two thousand two hundred. 
+    22: Also the tribe of Benjamin. The leader of the Benjaminites is Abidan, son of Gideoni, 
+    23: and the enrollment of his company is thirty-five thousand four hundred. 
+    24: The total enrollment of the camp of Ephraim by companies is one hundred and eight thousand one hundred. They shall be third on the march.
+
+    25: The divisional camp of Dan shall be on the north side, by companies. The leader of the Danites is Ahiezer, son of Ammishaddai, 
+    26: and the enrollment of his company is sixty-two thousand seven hundred. 
+    27: Encamped beside it shall be the tribe of Asher. The leader of the Asherites is Pagiel, son of Ochran, 
+    28: and the enrollment of his company is forty-one thousand five hundred. 
+    29: Also the tribe of Naphtali. The leader of the Naphtalites is Ahira, son of Enan, 
+    30: and the enrollment of his company is fifty-three thousand four hundred. 
+    31: The total enrollment of the camp of Dan is one hundred and fifty-seven thousand six hundred. They shall be the last on the march, by divisions.
+
+    32: These are the enrollments of the Israelites according to their ancestral houses. The total enrollment of the camps by companies is six hundred and three thousand five hundred and fifty. 
+    33: The Levites, however, were not enrolled with the other Israelites, just as the Lord had commanded Moses. 
+    34: The Israelites did just as the Lord had commanded Moses; both in camp and on the march they were in their own divisions, everyone by clan and according to ancestral house.
+
+
+  Chapter 3.
+
+    1: These are the offspring of Aaron and Moses at the time the Lord spoke to Moses on Mount Sinai. 
+    2: 
+    3: The Sons of Aaron. 1 These are the offspring of Aaron and Moses at the time the Lord spoke to Moses on Mount Sinai. 2 These are the names of Aaron’s sons: Nadab, the firstborn, Abihu, Eleazar, and Ithamar. 3 These are the names of Aaron’s sons, the anointed priests whom he ordained to serve as priests. 
+    4: But Nadab and Abihu died in the presence of the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai; and they left no sons. So only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.
+Levites in Place of the Firstborn. 
+    5: Now the Lord said to Moses: 
+    6: Summon the tribe of Levi and station them before Aaron the priest to serve him. 
+    7: They shall discharge his obligations and those of the whole community before the tent of meeting by maintaining the tabernacle. 
+    8: They shall have responsibility for all the furnishings of the tent of meeting and discharge the obligations of the Israelites by maintaining the tabernacle. 
+    9: ou shall assign the Levites to Aaron and his sons; they have been assigned unconditionally to him from among the Israelites. 
+    10: But you will appoint only Aaron and his descendants to exercise the priesthood. Any unauthorized person who comes near shall be put to death.
+
+    11: The Lord said to Moses: 
+    12: I hereby take the Levites from the Israelites in place of every firstborn that opens the womb among the Israelites. The Levites, therefore, are mine, 
+    13: because every firstborn is mine. When I struck down all the firstborn in the land of Egypt, I consecrated to me every firstborn in Israel, human being and beast alike. They belong to me; I am the Lord.
+Census of the Levites. 
+    14: The Lord said to Moses in the wilderness of Sinai: 
+    15: Enroll the Levites by their ancestral houses and clans, enrolling every male of a month or more. 
+    16: Moses, therefore, enrolled them at the direction of the Lord, just as the Lord had charged.
+
+    17: These were the sons of Levi by name: Gershon, Kohath and Merari. 
+    18: These were the names of the sons of Gershon, by their clans: Libni and Shimei. 
+    19: The sons of Kohath, by their clans, were Amram, Izhar, Hebron and Uzziel. 
+    20: The sons of Merari, by their clans, were Mahli and Mushi. These were the clans of the Levites by their ancestral houses.
+Duties of the Levitical Clans. 
+    21: To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites. 
+    22: Their enrollment, registering every male of a month or more, was seven thousand five hundred. 
+    23: The clans of the Gershonites camped behind the tabernacle, to the west. 
+    24: The leader of the ancestral house of the Gershonites was Eliasaph, son of Lael. 
+    25: At the tent of meeting their responsibility was the tabernacle: the tent and its covering, the curtain at the entrance of the tent of meeting, 
+    26: the hangings of the court, the curtain at the entrance of the court enclosing both the tabernacle and the altar, and the ropes—whatever pertained to their maintenance.
+
+    27: To Kohath belonged the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites. 
+    28: Their enrollment, registering every male of a month or more, was eight thousand three hundred. They were the ones who performed the duties of the sanctuary. 
+    29: The clans of the Kohathites camped on the south side of the tabernacle. 
+    30: And the leader of their ancestral house of the clan of the Kohathites was Elizaphan, son of Uzziel. 
+    31: Their responsibility was the ark, the table, the menorah, the altars, the utensils of the sanctuary with which the priests minister, the veil, and everything pertaining to their maintenance. 
+    32: The chief of the leaders of the Levites, however, was Eleazar, son of Aaron the priest; he was in charge of those who performed the duties of the sanctuary.
+
+    33: To Merari belonged the clans of the Mahlites and the Mushites; these were the clans of Merari. 
+    34: Their enrollment, registering every male of a month or more, was six thousand two hundred. 
+    35: The leader of the ancestral house of the clans of Merari was Zuriel, son of Abihail. They camped at the north side of the tabernacle. 
+    36: The Merarites were assigned responsibility for the boards of the tabernacle, its bars, columns, pedestals, and all its fittings—and everything pertaining to their maintenance, 
+    37: as well as the columns of the surrounding court with their pedestals, pegs and ropes.
+
+    38: East of the tabernacle, that is, in front of the tent of meeting, toward the sunrise, were camped Moses and Aaron and the latter’s sons, performing the duties of the sanctuary incumbent upon the Israelites. Any unauthorized person who came near was to be put to death.
+
+    39: The total enrollment of the Levites whom Moses and Aaron enrolled at the direction of the Lord, by clans, every male a month old or more, was twenty-two thousand.
+Census and Ransom of Firstborn. 
+    40: The Lord then said to Moses: Enroll every firstborn male of the Israelites a month old or more, and count the number of their names. 
+    41: Then take the Levites for me—I am the Lord—in place of all the firstborn of the Israelites, as well as the Levites’ cattle, in place of all the firstborn among the cattle of the Israelites. 
+    42: So Moses enrolled all the firstborn of the Israelites, as the Lord had commanded him. 
+    43: All the firstborn males, registered by name, of a month or more, numbered twenty-two thousand two hundred and seventy-three.
+
+    44: The Lord said to Moses: 
+    45: Take the Levites in place of all the firstborn of the Israelites, and the Levites’ cattle in place of their cattle, that the Levites may belong to me. I am the Lord. 
+    46: As a redemption-price for the two hundred and seventy-three firstborn of the Israelites over and above the number of the Levites, 
+    47: you shall take five shekels for each individual, according to the sanctuary shekel, twenty gerahs to the shekel. 
+    48: Give this money to Aaron and his sons as a redemption-price for the extra number. 
+    49: So Moses took the redemption money for those over and above the ones redeemed by the Levites. 
+    50: From the firstborn of the Israelites he took the money, one thousand three hundred and sixty-five shekels according to the sanctuary shekel. 
+    51: He then gave this redemption money to Aaron and his sons, at the direction of the Lord, just as the Lord had commanded Moses.
+
+
+  Chapter 4.
+
+    1: The Lord said to Moses and Aaron: 
+    2: Take a census among the Levites of the Kohathites, by clans and ancestral houses, 
+    3: 
+    4: Duties Further Defined. 1 The Lord said to Moses and Aaron: 2 Take a census among the Levites of the Kohathites, by clans and ancestral houses, 3 all between thirty and fifty years of age, who will join the personnel for doing tasks in the tent of meeting.
+4 This is the task of the Kohathites in the tent of meeting: the most sacred objects. 
+    5: In breaking camp, Aaron and his sons shall go in and take down the screening curtain and cover the ark of the covenant with it. 
+    6: Over these they shall put a cover of yellow-orange skin, and on top of this spread an all-violet cloth and put the poles in place. 
+    7: On the table of the Presence they shall spread a violet cloth and put on it the plates and cups, as well as the bowls and pitchers for libations; the established bread offering shall remain on the table. 
+    8: Over these they shall spread a scarlet cloth and cover it with a covering of yellow-orange skin, and put the poles in place. 
+    9: hey shall use a violet cloth to cover the menorah of the light with its lamps, tongs, and trays, as well as the various containers of oil from which it is supplied. 
+    10: The menorah with all its utensils they shall then put in a covering of yellow-orange skin, and place on a litter. 
+    11: Over the golden altar they shall spread a violet cloth, and cover this also with a covering of yellow-orange skin, and put the poles in place. 
+    12: Taking the utensils of the sanctuary service, they shall put them all in violet cloth and cover them with a covering of yellow-orange skin. They shall then place them on a litter. 
+    13: After cleansing the altar of its ashes, they shall spread a purple cloth over it. 
+    14: On this they shall put all the utensils with which it is served: the fire pans, forks, shovels, basins, and all the utensils of the altar. They shall then spread a covering of yellow-orange skin over this, and put the poles in place.
+
+    15: Only after Aaron and his sons have finished covering the sacred objects and all their utensils on breaking camp, can the Kohathites enter to carry them. But they shall not touch the sacred objects; if they do they will die. These, then, are the objects in the tent of meeting that the Kohathites shall carry.
+
+    16: Eleazar, son of Aaron the priest, shall be in charge of the oil for the light, the fragrant incense, the established grain offering, and the anointing oil. He shall be in charge of the whole tabernacle with all the sacred objects and utensils that are in it.
+
+    17: The Lord said to Moses and Aaron: 
+    18: Do not let the group of Kohathite clans perish from among the Levites. 
+    19: That they may live and not die when they approach the most sacred objects, this is what you shall do for them: Aaron and his sons shall go in and assign to each of them his task and what he must carry; 
+    20: but the Kohathites shall not go in to look upon the sacred objects even for an instant, or they will die.
+
+    21: The Lord said to Moses: 
+    22: Take a census of the Gershonites also, by ancestral houses and clans, 
+    23: enrolling all between thirty and fifty years of age who will join the personnel to do the work in the tent of meeting. 
+    24: This is the task of the clans of the Gershonites, what they must do and what they must carry: 
+    25: they shall carry the curtains of the tabernacle, the tent of meeting with its covering and the outer wrapping of yellow-orange skin, the curtain at the entrance of the tent of meeting, 
+    26: the hangings of the court, the curtain at the entrance to the gate of the court that encloses both the tabernacle and the altar, together with their ropes and all other objects necessary for their use. Whatever is to be done to maintain these things, they shall do. 
+    27: The service of the Gershonites shall be entirely under the direction of Aaron and his sons, with regard to what they must carry and what they must do; you shall list for them by name what they are to carry. 
+    28: This, then, is the task of the clans of the Gershonites in the tent of meeting; and they shall be under the supervision of Ithamar, son of Aaron the priest.
+
+    29: The Merarites, too, you shall enroll by clans and ancestral houses, 
+    30: enrolling all between thirty and fifty years of age who will join the personnel to maintain the tent of meeting. 
+    31: This is what they shall be responsible for carrying, with respect to all their service in the tent of meeting: the boards of the tabernacle with its bars, columns and pedestals, 
+    32: and the columns of the surrounding court with their pedestals, pegs and ropes, including all their accessories and everything for their maintenance. You shall list by name the objects they shall be responsible for carrying. 
+    33: This, then, is the task of the clans of the Merarites with respect to all their service in the tent of meeting under the supervision of Ithamar, son of Aaron the priest.
+Number of Adult Levites. 
+    34: So Moses and Aaron and the leaders of the community enrolled the Kohathites, by clans and ancestral houses, 
+    35: all between thirty and fifty years of age who will join the personnel to work in the tent of meeting; 
+    36: their enrollment by clans was two thousand seven hundred and fifty. 
+    37: Such was the enrollment of the clans of the Kohathites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the Lord directed through Moses.
+
+    38: As for the enrollment of the Gershonites, by clans and ancestral houses, 
+    39: all between thirty and fifty years of age who will join the personnel to work in the tent of meeting— 
+    40: their enrollment by clans and ancestral houses was two thousand six hundred and thirty. 
+    41: Such was the enrollment of the clans of the Gershonites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the Lord directed.
+
+    42: As for the enrollment of the clans of the Merarites, by clans and ancestral houses, 
+    43: all from thirty up to fifty years of age who will join the personnel to work in the tent of meeting— 
+    44: their enrollment by clans was three thousand two hundred. 
+    45: Such was the enrollment of the clans of the Merarites, whom Moses enrolled, together with Aaron, as the Lord directed through Moses.
+
+    46: As for the total enrollment of the Levites, which Moses and Aaron and the Israelite leaders had made, by clans and ancestral houses, 
+    47: all between thirty and fifty years of age who were to undertake tasks of service or transport for the tent of meeting— 
+    48: their total enrollment was eight thousand five hundred and eighty. 
+    49: As the Lord directed through Moses, they gave each of them their assignments for service and for transport; just as the Lord had commanded Moses.
+
+
+End of day 31.

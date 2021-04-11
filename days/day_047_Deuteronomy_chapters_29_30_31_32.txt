@@ -1,0 +1,494 @@
+Day 47:
+
+Reading Deuteronomy, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: 
+    2: 
+Past Favors Recalled. 1 Moses summoned all Israel and said to them, You have seen with your own eyes all that the Lord did in the land of Egypt to Pharaoh and all his servants and to all his land, 2 the great testings your own eyes have seen, and those great signs and wonders. 
+    3: But the Lord has not given you a heart to understand, or eyes to see, or ears to hear until this day. 
+    4: I led you for forty years in the wilderness. Your clothes did not fall from you in tatters nor your sandals from your feet; 
+    5: it was not bread that you ate, nor wine or beer that you drank—so that you might know that I, the Lord, am your God. 
+    6: When you came to this place, Sihon, king of Heshbon, and Og, king of Bashan, came out to engage us in battle, but we defeated them 
+    7: and took their land, and gave it as a heritage to the Reubenites, Gadites, and the half-tribe of Manasseh. 
+    8: 
+    9: ast Favors Recalled. 1 Moses summoned all Israel and said to them, You have seen with your own eyes all that the Lord did in the land of Egypt to Pharaoh and all his servants and to all his land, 2 the great testings your own eyes have seen, and those great signs and wonders. 3 But the Lord has not given you a heart to understand, or eyes to see, or ears to hear until this day. 4 I led you for forty years in the wilderness. Your clothes did not fall from you in tatters nor your sandals from your feet; 5 it was not bread that you ate, nor wine or beer that you drank—so that you might know that I, the Lord, am your God. 6 When you came to this place, Sihon, king of Heshbon, and Og, king of Bashan, came out to engage us in battle, but we defeated them 7 and took their land, and gave it as a heritage to the Reubenites, Gadites, and the half-tribe of Manasseh. 8 Observe carefully the words of this covenant, therefore, in order that you may succeed in whatever you do.
+All Israel Bound by Covenant. 9 You are standing today, all of you, in the presence of the Lord, your God—your tribal heads, elders, and officials, all of the men of Israel, 
+    10: your children, your wives, and the resident alien who lives in your camp, from those who cut wood to those who draw water for you— 
+    11: to enter into the covenant of the Lord, your God, which the Lord, your God, is making with you today, with its curse, 
+    12: so that he may establish you today as his people and he may be your God, as he promised you and as he swore to your ancestors, to Abraham, Isaac and Jacob. 
+    13: But it is not with you alone that I am making this covenant, with its curse, 
+    14: but with those who are standing here with us today in the presence of the Lord, our God, and with those who are not here with us today.
+Warning Against Idolatry. 
+    15: You know that we lived in the land of Egypt and that we passed through the nations, that you too passed through 
+    16: and saw the loathsome things and idols of wood and stone, of gold and silver, that they possess. 
+    17: There may be among you a man or woman, or a clan or tribe, whose heart is now turning away from the Lord, our God, to go and serve the gods of these nations; there may be among you a root bearing poison and wormwood; 
+    18: if any such persons, after hearing the words of this curse, should congratulate themselves, saying in their hearts, “I am safe, even though I walk in stubbornness of heart,” thereby sweeping away moist and dry alike, 
+    19: the Lord will never consent to pardon them. Instead, the Lord’s burning wrath will flare up against them; every curse written in this book will pounce on them, and the Lord will blot out their names from under the heavens. 
+    20: The Lord will single them out from all the tribes of Israel for doom, in keeping with all the curses of the covenant written in this book of the law.
+Punishment for Idolatry. 
+    21: Future generations, your descendants who will rise up after you, as well as the foreigners who will come here from distant lands, when they see the calamities of this land and the ills the Lord has inflicted upon it— 
+    22: all its soil burned out by sulphur and salt, unsown and unfruitful, without a blade of grass, like the catastrophe of Sodom and Gomorrah, Admah and Zeboiim, which the Lord overthrew in his furious wrath— 
+    23: they and all the nations will ask, “Why has the Lord dealt thus with this land? Why this great outburst of wrath?” 
+    24: And they will say, “Because they abandoned the covenant of the Lord, the God of their ancestors, which he had made with them when he brought them out of the land of Egypt, 
+    25: and they went and served other gods and bowed down to them, gods whom they did not know and whom he had not apportioned to them. 
+    26: So the anger of the Lord flared up against this land and brought on it every curse written in this book. 
+    27: The Lord uprooted them from their soil in anger, fury, and great wrath, and cast them out into another land, as they are today.” 
+    28: 
+    29: Past Favors Recalled. 1 Moses summoned all Israel and said to them, You have seen with your own eyes all that the Lord did in the land of Egypt to Pharaoh and all his servants and to all his land, 2 the great testings your own eyes have seen, and those great signs and wonders. 3 But the Lord has not given you a heart to understand, or eyes to see, or ears to hear until this day. 4 I led you for forty years in the wilderness. Your clothes did not fall from you in tatters nor your sandals from your feet; 5 it was not bread that you ate, nor wine or beer that you drank—so that you might know that I, the Lord, am your God. 6 When you came to this place, Sihon, king of Heshbon, and Og, king of Bashan, came out to engage us in battle, but we defeated them 7 and took their land, and gave it as a heritage to the Reubenites, Gadites, and the half-tribe of Manasseh. 8 Observe carefully the words of this covenant, therefore, in order that you may succeed in whatever you do.
+All Israel Bound by Covenant. 9 You are standing today, all of you, in the presence of the Lord, your God—your tribal heads, elders, and officials, all of the men of Israel, 10 your children, your wives, and the resident alien who lives in your camp, from those who cut wood to those who draw water for you— 11 to enter into the covenant of the Lord, your God, which the Lord, your God, is making with you today, with its curse, 12 so that he may establish you today as his people and he may be your God, as he promised you and as he swore to your ancestors, to Abraham, Isaac and Jacob. 13 But it is not with you alone that I am making this covenant, with its curse, 14 but with those who are standing here with us today in the presence of the Lord, our God, and with those who are not here with us today.
+Warning Against Idolatry. 15 You know that we lived in the land of Egypt and that we passed through the nations, that you too passed through 16 and saw the loathsome things and idols of wood and stone, of gold and silver, that they possess. 17 There may be among you a man or woman, or a clan or tribe, whose heart is now turning away from the Lord, our God, to go and serve the gods of these nations; there may be among you a root bearing poison and wormwood; 18 if any such persons, after hearing the words of this curse, should congratulate themselves, saying in their hearts, “I am safe, even though I walk in stubbornness of heart,” thereby sweeping away moist and dry alike,[b] 19 the Lord will never consent to pardon them. Instead, the Lord’s burning wrath will flare up against them; every curse written in this book will pounce on them, and the Lord will blot out their names from under the heavens. 20 The Lord will single them out from all the tribes of Israel for doom, in keeping with all the curses of the covenant written in this book of the law.
+Punishment for Idolatry. 21 Future generations, your descendants who will rise up after you, as well as the foreigners who will come here from distant lands, when they see the calamities of this land and the ills the Lord has inflicted upon it— 22 all its soil burned out by sulphur and salt, unsown and unfruitful, without a blade of grass, like the catastrophe of Sodom and Gomorrah, Admah and Zeboiim,[c] which the Lord overthrew in his furious wrath— 23 they and all the nations will ask, “Why has the Lord dealt thus with this land? Why this great outburst of wrath?” 24 And they will say, “Because they abandoned the covenant of the Lord, the God of their ancestors, which he had made with them when he brought them out of the land of Egypt, 25 and they went and served other gods and bowed down to them, gods whom they did not know and whom he had not apportioned to them. 26 So the anger of the Lord flared up against this land and brought on it every curse written in this book. 27 The Lord uprooted them from their soil in anger, fury, and great wrath, and cast them out into another land, as they are today.” 28 The hidden things[d] belong to the Lord our God, but the revealed things are for us and for our children forever, to observe all the words of this law.
+
+
+  Chapter 30.
+
+    1: When all these things, the blessing and the curse which I have set before you, come upon you, and you take them to heart in any of the nations where the Lord, your God, has dispersed you, 
+    2: 
+    3: 
+Compassion for the Repentant. 1 When all these things, the blessing and the curse which I have set before you, come upon you, and you take them to heart in any of the nations where the Lord, your God, has dispersed you, 2 and return to the Lord, your God, obeying his voice, according to all that I am commanding you today, you and your children, with your whole heart and your whole being, 3 the Lord, your God, will restore your fortunes and will have compassion on you; he will again gather you from all the peoples where the Lord, your God, has scattered you. 
+    4: Though you may have been dispersed to the farthest corner of the heavens, even from there will the Lord, your God, gather you; even from there will he bring you back. 
+    5: The Lord, your God, will then bring you into the land your ancestors once possessed, that you may possess it; and he will make you more prosperous and numerous than your ancestors. 
+    6: The Lord, your God, will circumcise your hearts and the hearts of your descendants, so that you will love the Lord, your God, with your whole heart and your whole being, in order that you may live. 
+    7: The Lord, your God, will put all those curses on your enemies and the foes who pursued you. 
+    8: You, however, shall again obey the voice of the Lord and observe all his commandments which I am giving you today. 
+    9: hen the Lord, your God, will generously increase your undertakings, the fruit of your womb, the offspring of your livestock, and the produce of your soil; for the Lord, your God, will again take delight in your prosperity, just as he took delight in your ancestors’, 
+    10: because you will obey the voice of the Lord, your God, keeping the commandments and statutes that are written in this book of the law, when you return to the Lord, your God, with your whole heart and your whole being.
+
+    11: For this command which I am giving you today is not too wondrous or remote for you. 
+    12: It is not in the heavens, that you should say, “Who will go up to the heavens to get it for us and tell us of it, that we may do it?” 
+    13: Nor is it across the sea, that you should say, “Who will cross the sea to get it for us and tell us of it, that we may do it?” 
+    14: No, it is something very near to you, in your mouth and in your heart, to do it.
+The Choice Before Israel. 
+    15: See, I have today set before you life and good, death and evil. 
+    16: If you obey the commandments of the Lord, your God, which I am giving you today, loving the Lord, your God, and walking in his ways, and keeping his commandments, statutes and ordinances, you will live and grow numerous, and the Lord, your God, will bless you in the land you are entering to possess. 
+    17: If, however, your heart turns away and you do not obey, but are led astray and bow down to other gods and serve them, 
+    18: I tell you today that you will certainly perish; you will not have a long life on the land which you are crossing the Jordan to enter and possess. 
+    19: I call heaven and earth today to witness against you: I have set before you life and death, the blessing and the curse. Choose life, then, that you and your descendants may live, 
+    20: by loving the Lord, your God, obeying his voice, and holding fast to him. For that will mean life for you, a long life for you to live on the land which the Lord swore to your ancestors, to Abraham, Isaac, and Jacob, to give to them.
+
+
+  Chapter 31.
+
+    1: The Lord’s Leadership. 1 When Moses had finished speaking these words to all Israel, 
+    2: 
+    3: 
+The Lord’s Leadership. 1 When Moses had finished speaking these words to all Israel, 2 he said to them, I am now one hundred and twenty years old and am no longer able to go out and come in; besides, the Lord has said to me, Do not cross this Jordan. 3 It is the Lord, your God, who will cross before you; he will destroy these nations before you, that you may dispossess them. (It is Joshua who will cross before you, as the Lord promised.) 
+    4: The Lord will deal with them just as he dealt with Sihon and Og, the kings of the Amorites, and with their country, when he destroyed them. 
+    5: When, therefore, the Lord delivers them up to you, you shall deal with them according to the whole commandment which I have given you. 
+    6: Be strong and steadfast; have no fear or dread of them, for it is the Lord, your God, who marches with you; he will never fail you or forsake you.
+Call of Joshua. 
+    7: Then Moses summoned Joshua and in the presence of all Israel said to him, “Be strong and steadfast, for you shall bring this people into the land which the Lord swore to their ancestors he would give them; it is you who will give them possession of it. 
+    8: It is the Lord who goes before you; he will be with you and will never fail you or forsake you. So do not fear or be dismayed.”
+The Reading of the Law. 
+    9: hen Moses had written down this law, he gave it to the levitical priests who carry the ark of the covenant of the Lord, and to all the elders of Israel. 
+    10: Moses commanded them, saying, On the feast of Booths, at the prescribed time in the year for remission which comes at the end of every seven-year period, 
+    11: when all Israel goes to appear before the Lord, your God, in the place which he will choose, you shall read this law aloud in the presence of all Israel. 
+    12: Assemble the people—men, women and children, as well as the resident aliens who live in your communities—that they may hear and so learn to fear the Lord, your God, and to observe carefully all the words of this law. 
+    13: Their children also, who do not know it yet, shall hear and learn to fear the Lord, your God, as long as you live on the land which you are about to cross the Jordan to possess.
+Commission to Joshua. 
+    14: The Lord said to Moses, The time is now approaching for you to die. Summon Joshua, and present yourselves at the tent of meeting that I may commission him. So Moses and Joshua went and presented themselves at the tent of meeting. 
+    15: And the Lord appeared at the tent in a column of cloud; the column of cloud stood at the entrance of the tent.
+A Command to Moses. 
+    16: The Lord said to Moses, Soon you will be at rest with your ancestors, and then this people will prostitute themselves by following the foreign gods among whom they will live in the land they are about to enter. They will forsake me and break the covenant which I have made with them. 
+    17: At that time my anger will flare up against them; I will forsake them and hide my face from them; they will become a prey to be devoured, and much evil and distress will befall them. At that time they will indeed say, “Is it not because our God is not in our midst that these evils have befallen us?” 
+    18: Yet I will surely hide my face at that time because of all the evil they have done in turning to other gods. 
+    19: Now, write out this song for yourselves. Teach it to the Israelites and have them recite it, so that this song may be a witness for me against the Israelites. 
+    20: For when I have brought them into the land flowing with milk and honey which I promised on oath to their ancestors, and they have eaten and are satisfied and have grown fat, if they turn to other gods and serve them, despising me and breaking my covenant, 
+    21: then, when great evil and distress befall them, this song will speak to them as a witness, for it will not be forgotten if their descendants recite it. For I know what they are inclined to do even at the present time, before I have brought them into the land which I promised on oath. 
+    22: So Moses wrote this song that same day, and he taught it to the Israelites.
+Commission of Joshua. 
+    23: Then he commissioned Joshua, son of Nun, and said to him, Be strong and steadfast, for it is you who will bring the Israelites into the land which I promised them on oath. I myself will be with you.
+The Law Placed in the Ark. 
+    24: When Moses had finished writing out on a scroll the words of this law in their entirety, 
+    25: Moses gave the Levites who carry the ark of the covenant of the Lord this order: 
+    26: Take this book of the law and put it beside the ark of the covenant of the Lord, your God, that there it may be a witness against you. 
+    27: For I already know how rebellious and stiff-necked you will be. Why, even now, while I am alive among you, you have been rebels against the Lord! How much more, then, after I am dead! 
+    28: Assemble all your tribal elders and your officials before me, that I may speak these words for them to hear and so may call heaven and earth to witness against them. 
+    29: For I know that after my death you are sure to act corruptly and to turn aside from the way along which I commanded you, so that evil will befall you in time to come because you have done what is evil in the Lord’s sight, and provoked him by your deeds.
+The Song of Moses. 
+    30: 
+    31: The Lord’s Leadership. 1 When Moses had finished speaking these words to all Israel, 2 he said to them, I am now one hundred and twenty years old and am no longer able to go out and come in; besides, the Lord has said to me, Do not cross this Jordan. 3 It is the Lord, your God, who will cross before you; he will destroy these nations before you, that you may dispossess them. (It is Joshua who will cross before you, as the Lord promised.) 4 The Lord will deal with them just as he dealt with Sihon and Og, the kings of the Amorites, and with their country, when he destroyed them. 5 When, therefore, the Lord delivers them up to you, you shall deal with them according to the whole commandment which I have given you. 6 Be strong and steadfast; have no fear or dread of them, for it is the Lord, your God, who marches with you; he will never fail you or forsake you.
+Call of Joshua. 7 Then Moses summoned Joshua and in the presence of all Israel said to him, “Be strong and steadfast, for you shall bring this people into the land which the Lord swore to their ancestors he would give them; it is you who will give them possession of it. 8 It is the Lord who goes before you; he will be with you and will never fail you or forsake you. So do not fear or be dismayed.”
+The Reading of the Law. 9 When Moses had written down this law, he gave it to the levitical priests who carry the ark of the covenant of the Lord, and to all the elders of Israel. 10 Moses commanded them, saying, On the feast of Booths, at the prescribed time in the year for remission which comes at the end of every seven-year period, 11 when all Israel goes to appear before the Lord, your God, in the place which he will choose, you shall read this law aloud in the presence of all Israel. 12 Assemble the people—men, women and children, as well as the resident aliens who live in your communities—that they may hear and so learn to fear the Lord, your God, and to observe carefully all the words of this law. 13 Their children also, who do not know it yet, shall hear and learn to fear the Lord, your God, as long as you live on the land which you are about to cross the Jordan to possess.
+Commission to Joshua. 14 The Lord said to Moses, The time is now approaching for you to die. Summon Joshua, and present yourselves at the tent of meeting that I may commission him. So Moses and Joshua went and presented themselves at the tent of meeting. 15 And the Lord appeared at the tent in a column of cloud; the column of cloud stood at the entrance of the tent.
+A Command to Moses. 16 The Lord said to Moses, Soon you will be at rest with your ancestors, and then this people will prostitute themselves[b] by following the foreign gods among whom they will live in the land they are about to enter. They will forsake me and break the covenant which I have made with them. 17 At that time my anger will flare up against them; I will forsake them and hide my face from them; they will become a prey to be devoured, and much evil and distress will befall them. At that time they will indeed say, “Is it not because our God is not in our midst that these evils have befallen us?” 18 Yet I will surely hide my face at that time because of all the evil they have done in turning to other gods. 19 Now, write out this song for yourselves. Teach it to the Israelites and have them recite it, so that this song may be a witness for me against the Israelites. 20 For when I have brought them into the land flowing with milk and honey which I promised on oath to their ancestors, and they have eaten and are satisfied and have grown fat, if they turn to other gods and serve them, despising me and breaking my covenant, 21 then, when great evil and distress befall them, this song will speak to them as a witness, for it will not be forgotten if their descendants recite it. For I know what they are inclined to do even at the present time, before I have brought them into the land which I promised on oath. 22 So Moses wrote this song that same day, and he taught it to the Israelites.
+Commission of Joshua. 23 Then he commissioned Joshua, son of Nun, and said to him, Be strong and steadfast, for it is you who will bring the Israelites into the land which I promised them on oath. I myself will be with you.
+The Law Placed in the Ark. 24 When Moses had finished writing out on a scroll the words of this law in their entirety, 25 Moses gave the Levites who carry the ark of the covenant of the Lord this order: 26 Take this book of the law and put it beside the ark of the covenant of the Lord, your God, that there it may be a witness against you. 27 For I already know how rebellious and stiff-necked you will be. Why, even now, while I am alive among you, you have been rebels against the Lord! How much more, then, after I am dead! 28 Assemble all your tribal elders and your officials before me, that I may speak these words for them to hear and so may call heaven and earth to witness against them. 29 For I know that after my death you are sure to act corruptly and to turn aside from the way along which I commanded you, so that evil will befall you in time to come because you have done what is evil in the Lord’s sight, and provoked him by your deeds.
+The Song of Moses. 30 Then Moses recited the words of this song in their entirety, for the whole assembly of Israel to hear:
+
+
+  Chapter 32.
+
+    1: 
+    2: 
+    3: 
+1 
+Give ear, O heavens, and let me speak;
+    let the earth hear the words of my mouth!
+2 
+May my teaching soak in like the rain,
+    and my utterance drench like the dew,
+Like a downpour upon the grass,
+    like a shower upon the crops.
+3 
+For I will proclaim the name of the Lord,
+    praise the greatness of our God!
+
+    4: 
+The Rock—how faultless are his deeds,
+    how right all his ways!
+A faithful God, without deceit,
+    just and upright is he!
+
+    5: 
+Yet his degenerate children have treated him basely,
+    a twisted and crooked generation!
+
+    6: 
+Is this how you repay the Lord,
+    so foolish and unwise a people?
+Is he not your father who begot you,
+    the one who made and established you?
+
+    7: 
+Remember the days of old,
+    consider the years of generations past.
+Ask your father, he will inform you,
+    your elders, they will tell you:
+
+    8: 
+When the Most High allotted each nation its heritage,
+    when he separated out human beings,
+He set up the boundaries of the peoples
+    after the number of the divine beings;
+
+    9: But the Lord’s portion was his people;
+    his allotted share was Jacob.
+
+    10: 
+He found them in a wilderness,
+    a wasteland of howling desert.
+He shielded them, cared for them,
+    guarded them as the apple of his eye.
+
+    11: 
+As an eagle incites its nestlings,
+    hovering over its young,
+So he spread his wings, took them,
+    bore them upon his pinions.
+
+    12: 
+The Lord alone guided them,
+    no foreign god was with them.
+
+    13: 
+He had them mount the summits of the land,
+    fed them the produce of its fields;
+He suckled them with honey from the crags
+    and olive oil from the flinty rock;
+
+    14: 
+Butter from cows and milk from sheep,
+    with the best of lambs;
+Bashan bulls and goats,
+    with the cream of finest wheat;
+    and the foaming blood of grapes you drank.
+
+    15: 
+So Jacob ate and was satisfied,
+    Jeshurun grew fat and kicked;
+    you became fat and gross and gorged.
+They forsook the God who made them
+    and scorned the Rock of their salvation.
+
+    16: 
+With strange gods they incited him,
+    with abominations provoked him to anger.
+
+    17: 
+They sacrificed to demons, to “no-gods,”
+    to gods they had never known,
+Newcomers from afar,
+    before whom your ancestors had never trembled.
+
+    18: 
+You were unmindful of the Rock that begot you,
+    you forgot the God who gave you birth.
+
+    19: 
+The Lord saw and was filled with loathing,
+    provoked by his sons and daughters.
+
+    20: 
+He said, I will hide my face from them,
+    and see what becomes of them.
+For they are a fickle generation,
+    children with no loyalty in them!
+
+    21: 
+Since they have incited me with a “no-god,”
+    and provoked me with their empty idols,
+I will incite them with a “no-people”;
+    with a foolish nation I will provoke them.
+
+    22: 
+For by my wrath a fire is kindled
+    that has raged to the depths of Sheol,
+It has consumed the earth with its yield,
+    and set on fire the foundations of the mountains.
+
+    23: 
+I will heap evils upon them
+    and exhaust all my arrows against them:
+
+    24: 
+Emaciating hunger and consuming fever
+    and bitter pestilence,
+And the teeth of wild beasts I will send among them,
+    with the venom of reptiles gliding in the dust.
+
+    25: 
+Out in the street the sword shall bereave,
+    and at home the terror
+For the young man and the young woman alike,
+    the nursing babe as well as the gray beard.
+
+    26: 
+I said: I will make an end of them
+    and blot out their name from human memory,
+
+    27: 
+Had I not feared the provocation by the enemy,
+    that their foes might misunderstand,
+And say, “Our own hand won the victory;
+    the Lord had nothing to do with any of it.”
+
+    28: 
+For they are a nation devoid of reason,
+    having no understanding.
+
+    29: 
+If they had insight they would realize this,
+    they would understand their end:
+
+    30: 
+“How could one rout a thousand,
+    or two put ten thousand to flight,
+Unless it was because their Rock sold them,
+    the Lord delivered them up?”
+
+    31: 
+    32: 1 
+Give ear, O heavens, and let me speak;
+    let the earth hear the words of my mouth!
+2 
+May my teaching soak in like the rain,
+    and my utterance drench like the dew,
+Like a downpour upon the grass,
+    like a shower upon the crops.
+3 
+For I will proclaim the name of the Lord,
+    praise the greatness of our God!
+4 
+The Rock—how faultless are his deeds,
+    how right all his ways!
+A faithful God, without deceit,
+    just and upright is he!
+5 
+Yet his degenerate children have treated him basely,
+    a twisted and crooked generation!
+6 
+Is this how you repay the Lord,
+    so foolish and unwise a people?
+Is he not your father who begot you,
+    the one who made and established you?
+7 
+Remember the days of old,
+    consider the years of generations past.
+Ask your father, he will inform you,
+    your elders, they will tell you:
+8 
+When the Most High allotted each nation its heritage,
+    when he separated out human beings,
+He set up the boundaries of the peoples
+    after the number of the divine beings;[b]
+9 
+But the Lord’s portion was his people;
+    his allotted share was Jacob.
+10 
+He found them in a wilderness,
+    a wasteland of howling desert.
+He shielded them, cared for them,
+    guarded them as the apple of his eye.
+11 
+As an eagle incites its nestlings,
+    hovering over its young,
+So he spread his wings, took them,
+    bore them upon his pinions.
+12 
+The Lord alone guided them,
+    no foreign god was with them.
+13 
+He had them mount the summits of the land,[c]
+    fed them the produce of its fields;
+He suckled them with honey from the crags
+    and olive oil from the flinty rock;
+14 
+Butter from cows and milk from sheep,
+    with the best of lambs;
+Bashan[d] bulls and goats,
+    with the cream of finest wheat;
+    and the foaming blood of grapes you drank.
+15 
+So Jacob ate and was satisfied,
+    Jeshurun[e] grew fat and kicked;
+    you became fat and gross and gorged.
+They forsook the God who made them
+    and scorned the Rock of their salvation.
+16 
+With strange gods they incited him,
+    with abominations provoked him to anger.
+17 
+They sacrificed to demons, to “no-gods,”
+    to gods they had never known,
+Newcomers from afar,
+    before whom your ancestors had never trembled.
+18 
+You were unmindful of the Rock that begot you,
+    you forgot the God who gave you birth.
+19 
+The Lord saw and was filled with loathing,
+    provoked by his sons and daughters.
+20 
+He said, I will hide my face from them,
+    and see what becomes of them.
+For they are a fickle generation,
+    children with no loyalty in them!
+21 
+Since they have incited me with a “no-god,”
+    and provoked me with their empty idols,
+I will incite them with a “no-people”;[f]
+    with a foolish nation I will provoke them.
+22 
+For by my wrath a fire is kindled
+    that has raged to the depths of Sheol,
+It has consumed the earth with its yield,
+    and set on fire the foundations of the mountains.
+23 
+I will heap evils upon them
+    and exhaust all my arrows against them:
+24 
+Emaciating hunger and consuming fever
+    and bitter pestilence,
+And the teeth of wild beasts I will send among them,
+    with the venom of reptiles gliding in the dust.
+25 
+Out in the street the sword shall bereave,
+    and at home the terror
+For the young man and the young woman alike,
+    the nursing babe as well as the gray beard.
+26 
+I said: I will make an end of them
+    and blot out their name from human memory,
+27 
+Had I not feared the provocation by the enemy,
+    that their foes might misunderstand,
+And say, “Our own hand won the victory;
+    the Lord had nothing to do with any of it.”
+28 
+For they are a nation devoid of reason,[g]
+    having no understanding.
+29 
+If they had insight they would realize this,
+    they would understand their end:
+30 
+“How could one rout a thousand,
+    or two put ten thousand to flight,
+Unless it was because their Rock sold them,
+    the Lord delivered them up?”
+31 
+Indeed, their “rock” is not like our Rock;
+    our enemies are fools.
+32 
+For their vine is from the vine of Sodom,
+    from the vineyards of Gomorrah.
+Their grapes are grapes of poison,
+    and their clusters are bitter.
+
+    33: 
+Their wine is the venom of serpents,
+    the cruel poison of vipers.
+
+    34: 
+Is not this stored up with me,
+    sealed up in my storehouses?
+
+    35: 
+Vengeance is mine and recompense,
+    for the time they lose their footing;
+Because the day of their disaster is at hand
+    and their doom is rushing upon them!
+
+    36: 
+Surely, the Lord will do justice for his people;
+    on his servants he will have pity.
+When he sees their strength is gone,
+    and neither bond nor free is left,
+
+    37: 
+He will say, Where are their gods,
+    the rock in whom they took refuge,
+
+    38: 
+Who ate the fat of their sacrifices
+    and drank the wine of their libations?
+Let them rise up now and help you!
+    Let them be your protection!
+
+    39: 
+See now that I, I alone, am he,
+    and there is no god besides me.
+It is I who bring both death and life,
+    I who inflict wounds and heal them,
+    and from my hand no one can deliver.
+
+    40: 
+For I raise my hand to the heavens
+    and will say: As surely as I live forever,
+
+    41: 
+When I sharpen my flashing sword,
+    and my hand lays hold of judgment,
+With vengeance I will repay my foes
+    and requite those who hate me.
+
+    42: 
+I will make my arrows drunk with blood,
+    and my sword shall devour flesh—
+With the blood of the slain and the captured,
+    from the long-haired heads of the enemy.
+
+    43: 
+Exult with him, you heavens,
+    bow to him, all you divine beings!
+For he will avenge the blood of his servants,
+    take vengeance on his foes;
+He will requite those who hate him,
+    and purge his people’s land.
+
+    44: So Moses, together with Hoshea, son of Nun, went and spoke all the words of this song in the hearing of the people.
+Final Appeal. 
+    45: When Moses had finished speaking all these words to all Israel, 
+    46: he said to them, Take to heart all the words that I am giving in witness against you today, words you should command your children, that they may observe carefully every word of this law. 
+    47: For this is no trivial matter for you, but rather your very life; by this word you will enjoy a long life on the land you are crossing the Jordan to possess.
+Moses Looks upon Canaan. 
+    48: On that very day the Lord said to Moses, 
+    49: Ascend this mountain of the Abarim, Mount Nebo in the land of Moab facing Jericho, and view the land of Canaan, which I am giving to the Israelites as a possession. 
+    50: Then you shall die on the mountain you are about to ascend, and shall be gathered to your people, just as your brother Aaron died on Mount Hor and there was gathered to his people, 
+    51: because both of you broke faith with me among the Israelites at the waters of Meribath-kadesh in the wilderness of Zin: you did not manifest my holiness among the Israelites. 
+    52: You may indeed see the land from a distance, but you shall not enter that land which I am giving to the Israelites.
+
+
+End of day 47.

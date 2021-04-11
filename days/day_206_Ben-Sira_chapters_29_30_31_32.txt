@@ -1,0 +1,706 @@
+Day 206:
+
+Reading Ben-Sira, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: 
+    2: 
+Loans, Alms and Surety
+1 
+The merciful lend to their neighbor,
+    by holding out a helping hand, they keep the commandments.
+2 
+Lend to your neighbor in his time of need,
+    and pay back your neighbor in time.
+
+    3: 
+Keep your promise and be honest with him,
+    and at all times you will find what you need.
+
+    4: 
+Many borrowers ask for a loan
+    and cause trouble for those who help them.
+
+    5: 
+Till he gets a loan, he kisses the lender’s hand
+    and speaks softly of his creditor’s money,
+But at time of payment, delays,
+    makes excuses, and finds fault with the timing.
+
+    6: 
+If he can pay, the lender will recover barely half,
+    and will consider that a windfall.
+If he cannot pay, the lender is cheated of his money
+    and acquires an enemy at no extra charge;
+With curses and insults the borrower will repay,
+    and instead of honor will repay with abuse.
+
+    7: 
+Many refuse to lend, not out of meanness,
+    but from fear of being cheated needlessly.
+
+    8: 
+    9: oans, Alms and Surety
+1 
+The merciful lend to their neighbor,
+    by holding out a helping hand, they keep the commandments.
+2 
+Lend to your neighbor in his time of need,
+    and pay back your neighbor in time.
+3 
+Keep your promise and be honest with him,
+    and at all times you will find what you need.
+4 
+Many borrowers ask for a loan
+    and cause trouble for those who help them.
+5 
+Till he gets a loan, he kisses the lender’s hand
+    and speaks softly of his creditor’s money,
+But at time of payment, delays,
+    makes excuses, and finds fault with the timing.
+6 
+If he can pay, the lender will recover barely half,
+    and will consider that a windfall.
+If he cannot pay, the lender is cheated of his money
+    and acquires an enemy at no extra charge;
+With curses and insults the borrower will repay,
+    and instead of honor will repay with abuse.
+7 
+Many refuse to lend, not out of meanness,
+    but from fear of being cheated needlessly.
+8 
+But with those in humble circumstances be patient;
+    do not keep them waiting for your alms.
+9 
+Because of the commandment, help the poor,
+    and in their need, do not send them away empty-handed.
+
+    10: 
+Lose your money for relative or friend;
+    do not hide it under a stone to rot.
+
+    11: 
+Dispose of your treasure according to the commandments of the Most High,
+    and that will profit you more than the gold.
+
+    12: 
+Store up almsgiving in your treasury,
+    and it will save you from every evil.
+
+    13: 
+Better than a mighty shield and a sturdy spear
+    it will fight for you against the enemy.
+
+    14: 
+A good person will be surety for a neighbor,
+    but whoever has lost a sense of shame will fail him.
+
+    15: 
+Do not forget the kindness of your backer,
+    for he has given his very life for you.
+
+    16: 
+A sinner will turn the favor of a pledge into misfortune,
+
+    17: 
+    and the ungrateful will abandon his rescuer.
+
+    18: 
+Going surety has ruined many who were prosperous
+    and tossed them about like waves of the sea;
+It has exiled the prominent
+    and sent them wandering through foreign lands.
+
+    19: 
+The sinner will come to grief through surety,
+    and whoever undertakes too much will fall into lawsuits.
+
+    20: 
+Help your neighbor according to your means,
+    but take care lest you fall yourself.
+Frugality and Its Rewards
+
+    21: 
+Life’s prime needs are water, bread, and clothing,
+    and also a house for decent privacy.
+
+    22: 
+Better is the life of the poor under the shadow of their own roof
+    than sumptuous banquets among strangers.
+
+    23: 
+Whether little or much, be content with what you have:
+    then you will hear no reproach as a parasite.
+
+    24: 
+It is a miserable life to go from house to house,
+    for where you are a guest you dare not open your mouth.
+
+    25: 
+You will entertain and provide drink without being thanked;
+    besides, you will hear these bitter words:
+
+    26: 
+“Come here, you parasite, set the table,
+    let me eat the food you have there!
+
+    27: 
+Go away, you parasite, for one more worthy;
+    for my relative’s visit I need the room!”
+
+    28: 
+    29: Loans, Alms and Surety
+1 
+The merciful lend to their neighbor,
+    by holding out a helping hand, they keep the commandments.
+2 
+Lend to your neighbor in his time of need,
+    and pay back your neighbor in time.
+3 
+Keep your promise and be honest with him,
+    and at all times you will find what you need.
+4 
+Many borrowers ask for a loan
+    and cause trouble for those who help them.
+5 
+Till he gets a loan, he kisses the lender’s hand
+    and speaks softly of his creditor’s money,
+But at time of payment, delays,
+    makes excuses, and finds fault with the timing.
+6 
+If he can pay, the lender will recover barely half,
+    and will consider that a windfall.
+If he cannot pay, the lender is cheated of his money
+    and acquires an enemy at no extra charge;
+With curses and insults the borrower will repay,
+    and instead of honor will repay with abuse.
+7 
+Many refuse to lend, not out of meanness,
+    but from fear of being cheated needlessly.
+8 
+But with those in humble circumstances be patient;
+    do not keep them waiting for your alms.
+9 
+Because of the commandment, help the poor,
+    and in their need, do not send them away empty-handed.
+10 
+Lose your money for relative or friend;
+    do not hide it under a stone to rot.
+11 
+Dispose of your treasure according to the commandments of the Most High,
+    and that will profit you more than the gold.
+12 
+[b]Store up almsgiving in your treasury,
+    and it will save you from every evil.
+13 
+Better than a mighty shield and a sturdy spear
+    it will fight for you against the enemy.
+14 
+[c]A good person will be surety for a neighbor,
+    but whoever has lost a sense of shame will fail him.
+15 
+Do not forget the kindness of your backer,
+    for he has given his very life for you.
+16 
+A sinner will turn the favor of a pledge into misfortune,
+17 
+    and the ungrateful will abandon his rescuer.
+18 
+Going surety has ruined many who were prosperous
+    and tossed them about like waves of the sea;
+It has exiled the prominent
+    and sent them wandering through foreign lands.
+19 
+The sinner will come to grief through surety,
+    and whoever undertakes too much will fall into lawsuits.
+20 
+Help your neighbor according to your means,
+    but take care lest you fall yourself.
+Frugality and Its Rewards[d]
+21 
+Life’s prime needs are water, bread, and clothing,
+    and also a house for decent privacy.
+22 
+Better is the life of the poor under the shadow of their own roof
+    than sumptuous banquets among strangers.
+23 
+Whether little or much, be content with what you have:
+    then you will hear no reproach as a parasite.
+24 
+It is a miserable life to go from house to house,
+    for where you are a guest you dare not open your mouth.
+25 
+You will entertain and provide drink without being thanked;
+    besides, you will hear these bitter words:
+26 
+“Come here, you parasite, set the table,
+    let me eat the food you have there!
+27 
+Go away, you parasite, for one more worthy;
+    for my relative’s visit I need the room!”
+28 
+Painful things to a sensitive person
+    are rebuke as a parasite and insults from creditors.
+
+
+  Chapter 30.
+
+    1: 
+Whoever loves a son will chastise him often,
+    that he may be his joy when he grows up.
+
+    2: 
+    3: 
+The Training of Children
+1 
+Whoever loves a son will chastise him often,
+    that he may be his joy when he grows up.
+2 
+Whoever disciplines a son will benefit from him,
+    and boast of him among acquaintances.
+3 
+Whoever educates a son will make his enemy jealous,
+    and rejoice in him among his friends.
+
+    4: 
+At the father’s death, he will seem not dead,
+    for he leaves after him one like himself,
+
+    5: 
+Whom he looked upon through life with joy,
+    and in death, without regret.
+
+    6: 
+Against his enemies he has left an avenger,
+    and one to repay his friends with kindness.
+
+    7: 
+Whoever spoils a son will have wounds to bandage,
+    and will suffer heartache at every cry.
+
+    8: 
+An untamed horse turns out stubborn;
+    and a son left to himself grows up unruly.
+
+    9: Pamper a child and he will be a terror for you,
+    indulge him, and he will bring you grief.
+
+    10: 
+Do not laugh with him lest you share sorrow with him,
+    and in the end you will gnash your teeth.
+
+    11: 
+Do not give him his own way in his youth,
+    and do not ignore his follies.
+
+    12: 
+Bow down his head in his youth,
+    beat his sides while he is still young,
+Lest he become stubborn and disobey you,
+    and leave you disconsolate.
+
+    13: 
+Discipline your son and make heavy his yoke,
+    lest you be offended by his shamelessness.
+Health and Cheerfulness
+
+    14: 
+Better the poor in vigorous health
+    than the rich with bodily ills.
+
+    15: 
+I would rather have bodily health than any gold,
+    and contentment of spirit than pearls.
+
+    16: 
+No riches are greater than a healthy body;
+    and no happiness than a joyful heart.
+
+    17: 
+Better is death than a wretched life,
+    everlasting sleep than constant illness.
+
+    18: 
+Good things set before one who cannot eat
+    are like food offerings placed before a tomb.
+
+    19: 
+What good is an offering to an idol
+    that can neither eat nor smell?
+So it is with the one being punished by the Lord,
+
+    20: 
+    who groans at what his eyes behold.
+
+    21: 
+Do not give in to sadness,
+    or torment yourself deliberately.
+
+    22: 
+Gladness of heart is the very life of a person,
+    and cheerfulness prolongs his days.
+
+    23: 
+Distract yourself and renew your courage,
+    drive resentment far away from you;
+For grief has killed many,
+    and nothing is to be gained from resentment.
+
+    24: 
+Envy and anger shorten one’s days,
+    and anxiety brings on premature old age.
+
+    25: 
+Those who are cheerful and merry at table
+    benefit from their food.
+
+
+  Chapter 31.
+
+    1: The Proper Attitude Toward Riches
+1 
+Wakefulness over wealth wastes away the flesh,
+    and anxiety over it drives away sleep.
+
+    2: 
+    3: 
+The Proper Attitude Toward Riches
+1 
+Wakefulness over wealth wastes away the flesh,
+    and anxiety over it drives away sleep.
+2 
+Wakeful anxiety banishes slumber;
+    more than a serious illness it disturbs repose.
+3 
+The rich labor to pile up wealth,
+    and if they rest, it is to enjoy pleasure;
+
+    4: 
+The poor labor for a meager living,
+    and if they ever rest, they become needy.
+
+    5: 
+The lover of gold will not be free from sin;
+    whoever pursues money will be led astray by it.
+
+    6: 
+Many have come to ruin for the sake of gold,
+    yet destruction lay before their very eyes;
+
+    7: 
+It is a stumbling block for fools;
+    any simpleton will be ensnared by it.
+
+    8: 
+Happy the rich person found without fault,
+    who does not turn aside after wealth.
+
+    9: Who is he, that we may praise him?
+    For he has done wonders among his people.
+
+    10: 
+Who has been tested by gold and been found perfect?
+    Let it be for him his glory;
+Who could have sinned but did not,
+    and could have done evil but did not?
+
+    11: 
+So his good fortune is secure,
+    and the assembly will recount his praises.
+Table Etiquette
+
+    12: 
+Are you seated at the table of the great?
+    Bring to it no greedy gullet,
+Nor say, “How much food there is here!”
+
+    13: 
+    Remember that the greedy eye is evil.
+What has been created more greedy than the eye?
+    Therefore, it weeps for any cause.
+15 
+Recognize that your neighbor feels as you do,
+    and keep in mind everything you dislike.
+
+    14: 
+    15: 
+Recognize that your neighbor feels as you do,
+    and keep in mind everything you dislike.
+14 
+Toward what he looks at, do not put out a hand;
+    nor reach for the same dish when he does.
+
+    16: 
+Eat, like anyone else, what is set before you,
+    but do not eat greedily, lest you be despised.
+
+    17: 
+Be the first to stop, as befits good manners;
+    and do not gorge yourself, lest you give offense.
+
+    18: 
+If there are many with you at table,
+    do not be the first to stretch out your hand.
+
+    19: 
+Does not a little suffice for a well-bred person?
+    When he lies down, he does not wheeze.
+
+    20: 
+Moderate eating ensures sound slumber
+    and a clear mind on rising the next day.
+The distress of sleeplessness and of nausea
+    and colic are with the glutton!
+
+    21: 
+Should you have eaten too much,
+    get up to vomit and you will have relief.
+
+    22: 
+Listen to me, my child, and do not scorn me;
+    later you will find my advice good.
+In whatever you do, be moderate,
+    and no sickness will befall you.
+
+    23: 
+People bless one who is generous with food,
+    and this testimony to his goodness is lasting.
+
+    24: 
+The city complains about one who is stingy with food,
+    and this testimony to his stinginess is lasting.
+
+    25: 
+Let not wine be the proof of your strength,
+    for wine has been the ruin of many.
+
+    26: 
+As the furnace tests the work of the smith,
+    so does wine the hearts of the insolent.
+
+    27: 
+Wine is very life to anyone,
+    if taken in moderation.
+Does anyone really live who lacks the wine
+    which from the beginning was created for joy?
+
+    28: 
+Joy of heart, good cheer, and delight
+    is wine enough, drunk at the proper time.
+
+    29: 
+Headache, bitterness, and disgrace
+    is wine drunk amid anger and strife.
+
+    30: 
+    31: The Proper Attitude Toward Riches
+1 
+Wakefulness over wealth wastes away the flesh,
+    and anxiety over it drives away sleep.
+2 
+Wakeful anxiety banishes slumber;
+    more than a serious illness it disturbs repose.
+3 
+The rich labor to pile up wealth,
+    and if they rest, it is to enjoy pleasure;
+4 
+The poor labor for a meager living,
+    and if they ever rest, they become needy.
+5 
+The lover of gold will not be free from sin;
+    whoever pursues money will be led astray by it.
+6 
+Many have come to ruin for the sake of gold,
+    yet destruction lay before their very eyes;
+7 
+It is a stumbling block for fools;
+    any simpleton will be ensnared by it.
+8 
+Happy the rich person found without fault,
+    who does not turn aside after wealth.
+9 
+Who is he, that we may praise him?
+    For he has done wonders among his people.
+10 
+Who has been tested by gold and been found perfect?
+    Let it be for him his glory;
+Who could have sinned but did not,
+    and could have done evil but did not?
+11 
+So his good fortune is secure,
+    and the assembly will recount his praises.
+Table Etiquette[b]
+12 
+Are you seated at the table of the great?
+    Bring to it no greedy gullet,
+Nor say, “How much food there is here!”
+13 
+    Remember that the greedy eye is evil.
+What has been created more greedy than the eye?
+    Therefore, it weeps for any cause.
+15 
+Recognize that your neighbor feels as you do,
+    and keep in mind everything you dislike.
+14 
+Toward what he looks at, do not put out a hand;
+    nor reach for the same dish when he does.
+16 
+Eat, like anyone else, what is set before you,
+    but do not eat greedily, lest you be despised.
+17 
+Be the first to stop, as befits good manners;
+    and do not gorge yourself, lest you give offense.
+18 
+If there are many with you at table,
+    do not be the first to stretch out your hand.
+19 
+Does not a little suffice for a well-bred person?
+    When he lies down, he does not wheeze.
+20 
+Moderate eating ensures sound slumber
+    and a clear mind on rising the next day.
+The distress of sleeplessness and of nausea
+    and colic are with the glutton!
+21 
+Should you have eaten too much,
+    get up to vomit[c] and you will have relief.
+22 
+Listen to me, my child, and do not scorn me;
+    later you will find my advice good.
+In whatever you do, be moderate,
+    and no sickness will befall you.
+23 
+People bless one who is generous with food,
+    and this testimony to his goodness is lasting.
+24 
+The city complains about one who is stingy with food,
+    and this testimony to his stinginess is lasting.
+25 
+Let not wine be the proof of your strength,
+    for wine has been the ruin of many.
+26 
+As the furnace tests the work of the smith,
+    so does wine the hearts of the insolent.
+27 
+Wine is very life to anyone,
+    if taken in moderation.
+Does anyone really live who lacks the wine
+    which from the beginning was created for joy?
+28 
+Joy of heart, good cheer, and delight
+    is wine enough, drunk at the proper time.
+29 
+Headache, bitterness, and disgrace
+    is wine drunk amid anger and strife.
+30 
+Wine in excess is a snare for the fool;
+    it lessens strength and multiplies wounds.
+31 
+Do not wrangle with your neighbor when wine is served,
+    nor despise him while he is having a good time;
+Say no harsh words to him
+    nor distress him by making demands.
+
+
+  Chapter 32.
+
+    1: 
+    2: 
+    3: 
+1 
+If you are chosen to preside at a dinner, do not be puffed up,
+    but with the guests be as one of them;
+Take care of them first and then sit down;
+2 
+    see to their needs, and then take your place,
+To share in their joy
+    and receive a wreath for a job well done.
+3 
+You who are older, it is your right to speak,
+    but temper your knowledge and do not interrupt the singing.
+
+    4: 
+Where there is entertainment, do not pour out discourse,
+    and do not display your wisdom at the wrong time.
+
+    5: 
+Like a seal of carnelian in a setting of gold:
+    a concert of music at a banquet of wine.
+
+    6: 
+A seal of emerald in a work of gold:
+    the melody of music with delicious wine.
+
+    7: 
+Speak, young man, only when necessary,
+    when they have asked you more than once.
+
+    8: 
+Be brief, say much in few words;
+    be knowledgeable and yet quiet.
+
+    9: When among elders do not be forward,
+    and with officials do not be too insistent.
+
+    10: 
+The lightning that flashes before a hailstorm:
+    the esteem that shines on modesty.
+
+    11: 
+Leave in good time and do not be the last;
+    go home quickly without delay.
+
+    12: 
+There enjoy doing as you wish,
+    but do not sin through words of pride.
+
+    13: 
+Above all, bless your Maker,
+    who showers his favors upon you.
+The Providence of God
+
+    14: 
+Whoever seeks God must accept discipline;
+    and whoever resorts to him obtains an answer.
+
+    15: 
+Whoever seeks the law will master it,
+    but the hypocrite will be ensnared by it.
+
+    16: 
+Whoever fears the Lord will understand what is right,
+    and out of obscurity he will draw forth a course of action.
+
+    17: 
+The lawless turn aside warnings
+    and distort the law to suit their purpose.
+
+    18: 
+The sensible will not neglect direction;
+    the proud and insolent are deterred by no fear.
+
+    19: 
+Do nothing without deliberation;
+    then once you have acted, have no regrets.
+
+    20: 
+Do not go on a way set with snares,
+    and do not stumble on the same thing twice.
+
+    21: 
+Do not trust the road, because of bandits;
+
+    22: 
+    be careful on your paths.
+
+    23: 
+Whatever you do, be on your guard,
+    for whoever does so keeps the commandments.
+
+    24: 
+Whoever keeps the law preserves himself;
+    and whoever trusts in the Lord shall not be put to shame.
+
+
+End of day 206.

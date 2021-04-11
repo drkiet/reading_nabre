@@ -1,0 +1,226 @@
+Day 89:
+
+Reading 1-Chronicles, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: From Adam to Abraham. 1 Adam, Seth, Enosh, 
+    2: Kenan, Mahalalel, Jared, 
+    3: Enoch, Methuselah, Lamech, 
+    4: Noah, Shem, Ham, and Japheth. 
+    5: The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. 
+    6: The sons of Gomer were Ashkenaz, Riphath, and Togarmah. 
+    7: The sons of Javan were Elishah, Tarshish, the Kittim, and the Rodanim.
+
+    8: The sons of Ham were Cush, Mizraim, Put, and Canaan. 
+    9: he sons of Cush were Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raama were Sheba and Dedan. 
+    10: Cush became the father of Nimrod, who was the first to be a warrior on the earth. 
+    11: Mizraim became the father of the Ludim, Anamim, Lehabim, Naphtuhim, 
+    12: Pathrusim, Casluhim, and Caphtorim, from whom the Philistines sprang. 
+    13: Canaan became the father of Sidon, his firstborn, and Heth, 
+    14: and the Jebusites, the Amorites, the Girgashites, 
+    15: the Hivites, the Arkites, the Sinites, 
+    16: the Arvadites, the Zemarites, and the Hamathites.
+
+    17: The sons of Shem were Elam, Asshur, Arpachshad, Lud, and Aram. The sons of Aram were Uz, Hul, Gether, and Mash. 
+    18: Arpachshad became the father of Shelah, and Shelah became the father of Eber. 
+    19: Two sons were born to Eber; the first was named Peleg (for in his time the world was divided), and his brother was named Joktan. 
+    20: Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah, 
+    21: Hadoram, Uzal, Diklah, 
+    22: Ebal, Abimael, Sheba, 
+    23: Ophir, Havilah, and Jobab; all these were the sons of Joktan.
+
+    24: Shem, Arpachshad, Shelah, 
+    25: Eber, Peleg, Reu, 
+    26: Serug, Nahor, Terah, 
+    27: Abram, that is, Abraham.
+From Abraham to Jacob. 
+    28: The sons of Abraham were Isaac and Ishmael. 
+    29: These were their generations:
+Nebaioth, the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, 
+    30: Mishma, Dumah, Massa, Hadad, Tema, 
+    31: Jetur, Naphish, and Kedemah. These were the sons of Ishmael.
+
+    32: The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan were Sheba and Dedan. 
+    33: The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.
+
+    34: Abraham begot Isaac. The sons of Isaac were Esau and Israel.
+
+    35: The descendants of Esau were Eliphaz, Reuel, Jeush, Jalam, and Korah. 
+    36: The descendants of Eliphaz were Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek. 
+    37: The descendants of Reuel were Nahath, Zerah, Shammah, and Mizzah.
+
+    38: The sons of Seir were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. 
+    39: The sons of Lotan were Hori and Homam; Timna was the sister of Lotan. 
+    40: The sons of Shobal were Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon were Aiah and Anah. 
+    41: The sons of Anah: Dishon. The sons of Dishon were Hemdan, Eshban, Ithran, and Cheran. 
+    42: The sons of Ezer were Bilhan, Zaavan, and Jaakan. The sons of Dishan were Uz and Aran.
+
+    43: The kings who reigned in the land of Edom before the Israelites had kings were the following: Bela, son of Beor, the name of whose city was Dinhabah. 
+    44: When Bela died, Jobab, son of Zerah, from Bozrah, succeeded him as king. 
+    45: When Jobab died, Husham, from the land of the Temanites, succeeded him as king. 
+    46: Husham died and Hadad, son of Bedad, succeeded him as king. He overthrew the Midianites on the Moabite plateau, and the name of his city was Avith. 
+    47: Hadad died and Samlah of Masrekah succeeded him as king. 
+    48: Samlah died and Shaul from Rehoboth on the Euphrates succeeded him as king. 
+    49: When Shaul died, Baalhanan, son of Achbor, succeeded him as king. 
+    50: Baalhanan died and Hadad succeeded him as king. The name of his city was Pai, and his wife’s name was Mehetabel. She was the daughter of Matred, who was the daughter of Mezahab. 
+    51: After Hadad died, there were chiefs in Edom: the chiefs of Timna, Aliah, Jetheth, 
+    52: Oholibamah, Elah, Pinon, 
+    53: Kenaz, Teman, Mibzar, 
+    54: Magdiel, and Iram were the chiefs of Edom.
+
+
+  Chapter 2.
+
+    1: 
+    2: 1 These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, 2 Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+Judah. 
+    3: The sons of Judah were: Er, Onan, and Shelah; these three Bathshua, a Canaanite woman, bore to him. But Judah’s firstborn, Er, was wicked in the sight of the Lord, so he took his life. 
+    4: Judah’s daughter-in-law Tamar bore him Perez and Zerah, so that he had five sons in all.
+
+    5: The sons of Perez were Hezron and Hamul. 
+    6: The sons of Zerah were Zimri, Ethan, Heman, Calcol, and Darda—five in all. 
+    7: The sons of Zimri: Carmi. The sons of Carmi: Achar, who brought trouble upon Israel by violating the ban. 
+    8: The sons of Ethan: Azariah. 
+    9: he sons born to Hezron were Jerahmeel, Ram, and Chelubai.
+
+    10: Ram became the father of Amminadab, and Amminadab became the father of Nahshon, a prince of the Judahites. 
+    11: Nahshon became the father of Salmah. Salmah became the father of Boaz. 
+    12: Boaz became the father of Obed. Obed became the father of Jesse. 
+    13: Jesse became the father of Eliab, his firstborn, of Abinadab, the second son, Shimea, the third, 
+    14: Nethanel, the fourth, Raddai, the fifth, 
+    15: Ozem, the sixth, and David, the seventh. 
+    16: Their sisters were Zeruiah and Abigail. Zeruiah had three sons: Abishai, Joab, and Asahel. 
+    17: Abigail bore Amasa, whose father was Jether the Ishmaelite.
+
+    18: By his wife Azubah, Caleb, son of Hezron, became the father of a daughter, Jerioth. Her sons were Jesher, Shobab, and Ardon. 
+    19: When Azubah died, Caleb married Ephrath, who bore him Hur. 
+    20: Hur became the father of Uri, and Uri became the father of Bezalel. 
+    21: Then Hezron had relations with the daughter of Machir, the father of Gilead, whom he married when he was sixty years old. She bore him Segub. 
+    22: Segub became the father of Jair, who possessed twenty-three cities in the land of Gilead. 
+    23: Geshur and Aram took from them the villages of Jair, that is, Kenath and its towns, sixty cities in all, which had belonged to the sons of Machir, the father of Gilead. 
+    24: After the death of Hezron, Caleb had relations with Ephrathah, the widow of his father Hezron, and she bore him Ashhur, the father of Tekoa.
+
+    25: The sons of Jerahmeel, the firstborn of Hezron, were Ram, the firstborn, then Bunah, Oren, and Ozem, his brothers. 
+    26: Jerahmeel also had another wife, named Atarah, who was the mother of Onam. 
+    27: The sons of Ram, the firstborn of Jerahmeel, were Maaz, Jamin, and Eker. 
+    28: The sons of Onam were Shammai and Jada. The sons of Shammai were Nadab and Abishur. 
+    29: Abishur’s wife, who was named Abihail, bore him Ahban and Molid. 
+    30: The sons of Nadab were Seled and Appaim. Seled died childless. 
+    31: The sons of Appaim: Ishi. The sons of Ishi: Sheshan. The sons of Sheshan: Ahlai. 
+    32: The sons of Jada, the brother of Shammai, were Jether and Jonathan. Jether died childless. 
+    33: The sons of Jonathan were Peleth and Zaza. These were the sons of Jerahmeel. 
+    34: Sheshan had no sons, only daughters; he had an Egyptian slave named Jarha. 
+    35: Sheshan gave his daughter in marriage to his slave Jarha, and she bore him Attai. 
+    36: Attai became the father of Nathan. Nathan became the father of Zabad. 
+    37: Zabad became the father of Ephlal. Ephlal became the father of Obed. 
+    38: Obed became the father of Jehu. Jehu became the father of Azariah. 
+    39: Azariah became the father of Helez. Helez became the father of Eleasah. 
+    40: Eleasah became the father of Sismai. Sismai became the father of Shallum. 
+    41: Shallum became the father of Jekamiah. Jekamiah became the father of Elishama.
+
+    42: The sons of Caleb, the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph. Then the sons of Mareshah, who was the father of Hebron. 
+    43: The sons of Hebron were Korah, Tappuah, Rekem, and Shema. 
+    44: Shema became the father of Raham, who was the father of Jorkeam. Rekem became the father of Shammai. 
+    45: The son of Shammai: Maon, who was the father of Beth-zur. 
+    46: Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez. Haran became the father of Gazez. 
+    47: The sons of Jahdai were Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph. 
+    48: Maacah, Caleb’s concubine, bore Sheber and Tirhanah. 
+    49: She also bore Shaaph, the father of Madmannah, Sheva, the father of Machbenah, and the father of Gibea. Achsah was Caleb’s daughter.
+
+    50: These were sons of Caleb, sons of Hur, the firstborn of Ephrathah: Shobal, the father of Kiriath-jearim, 
+    51: Salma, the father of Bethlehem, and Hareph, the father of Bethgader. 
+    52: The sons of Shobal, the father of Kiriath-jearim, were Reaiah, half of the Manahathites, 
+    53: and the clans of Kiriath-jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites. From these the Zorahites and the Eshtaolites derived. 
+    54: The sons of Salma were Bethlehem, the Netophathites, Atroth-beth-Joab, half of the Manahathites, and the Zorites. 
+    55: The clans of the Sopherim dwelling in Jabez were the Tirathites, the Shimeathites, and the Sucathites. They were the Kenites, who descended from Hammath, the ancestor of the Rechabites.
+
+
+  Chapter 3.
+
+    1: These were the sons of David born to him in Hebron: the firstborn, Amnon, by Ahinoam of Jezreel; the second, Daniel,[b] by Abigail of Carmel; 
+    2: 
+    3: 1 These were the sons of David born to him in Hebron: the firstborn, Amnon, by Ahinoam of Jezreel; the second, Daniel,[b] by Abigail of Carmel; 2 the third, Absalom, son of Maacah, who was the daughter of Talmai, king of Geshur; the fourth, Adonijah, son of Haggith; 3 the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah. 
+    4: Six in all were born to him in Hebron, where he reigned seven years and six months. Then he reigned thirty-three years in Jerusalem. 
+    5: In Jerusalem the following were born to him: Shimea, Shobab, Nathan, Solomon—four by Bathsheba, the daughter of Ammiel; 
+    6: Ibhar, Elishua, Eliphelet, 
+    7: Nogah, Nepheg, Japhia, 
+    8: Elishama, Eliada, and Eliphelet—nine. 
+    9: ll these were sons of David, in addition to other sons by concubines; and Tamar was their sister.
+
+    10: The son of Solomon was Rehoboam, whose son was Abijah, whose son was Asa, whose son was Jehoshaphat, 
+    11: whose son was Joram, whose son was Ahaziah, whose son was Joash, 
+    12: whose son was Amaziah, whose son was Azariah, whose son was Jotham, 
+    13: whose son was Ahaz, whose son was Hezekiah, whose son was Manasseh, 
+    14: whose son was Amon, whose son was Josiah. 
+    15: The sons of Josiah were: the firstborn Johanan; the second, Jehoiakim; the third, Zedekiah; the fourth, Shallum. 
+    16: The sons of Jehoiakim were: Jeconiah, his son; Zedekiah, his son.
+
+    17: The sons of Jeconiah the captive were: Shealtiel, 
+    18: Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah. 
+    19: The sons of Pedaiah were Zerubbabel and Shimei. The sons of Zerubbabel were Meshullam and Hananiah; Shelomith was their sister. 
+    20: The sons of Meshullam were Hashubah, Ohel, Berechiah, Hasadiah, Jushabhesed—five. 
+    21: The sons of Hananiah were Pelatiah, Jeshaiah, Rephaiah, Arnan, Obadiah, and Shecaniah. 
+    22: The sons of Shecaniah were Shemaiah, Hattush, Igal, Bariah, Neariah, Shaphat—six. 
+    23: The sons of Neariah were Elioenai, Hizkiah, and Azrikam—three. 
+    24: The sons of Elioenai were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven.
+
+
+  Chapter 4.
+
+    1: The sons of Judah were: Perez, Hezron, Carmi, Hur, and Shobal. 
+    2: Reaiah, the son of Shobal, became the father of Jahath, and Jahath became the father of Ahumai and Lahad. These were the clans of the Zorathites.
+
+    3: 
+    4: 1 The sons of Judah were: Perez, Hezron, Carmi, Hur, and Shobal. 2 Reaiah, the son of Shobal, became the father of Jahath, and Jahath became the father of Ahumai and Lahad. These were the clans of the Zorathites.
+3 These were the sons of Hareph, the father of Etam: Jezreel, Ishma, and Idbash; their sister was named Hazzelelponi. 4 Penuel was the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem.
+
+    5: Ashhur, the father of Tekoa, had two wives, Helah and Naarah. 
+    6: Naarah bore him Ahuzzam, Hepher, the Temenites, and the Ahashtarites. These were the sons of Naarah. 
+    7: The sons of Helah were Zereth, Izhar, Ethnan, and Koz. 
+    8: Koz became the father of Anub and Zobebah, as well as of the clans of Aharhel, son of Harum. 
+    9: abez was the most distinguished of his brothers. His mother had named him Jabez, saying, “I bore him with pain.” 
+    10: Jabez prayed to the God of Israel: “Oh, that you may truly bless me and extend my boundaries! May your hand be with me and make me free of misfortune, without pain!” And God granted his prayer.
+
+    11: Chelub, the brother of Shuhah, became the father of Mehir, who was the father of Eshton. 
+    12: Eshton became the father of Bethrapha, Paseah, and Tehinnah, the father of the city of Nahash. These were the men of Recah.
+
+    13: The sons of Kenaz were Othniel and Seraiah. The sons of Othniel were Hathath and Meonothai; 
+    14: Meonothai became the father of Ophrah. Seraiah became the father of Joab, the father of Geharashim, so called because they were artisans. 
+    15: The sons of Caleb, son of Jephunneh, were Ir, Elah, and Naam. The sons of Elah: Kenaz. 
+    16: The sons of Jehallelel were Ziph, Ziphah, Tiria, and Asarel. 
+    17: The sons of Ezrah were Jether, Mered, Epher, and Jalon. Jether became the father of Miriam, Shammai, and Ishbah, the father of Eshtemoa. 
+    18: Mered’s Egyptian wife bore Jered, the father of Gedor, Heber, the father of Soco, and Jekuthiel, the father of Zanoah. These were the sons of Bithiah, the daughter of Pharaoh, whom Mered married. 
+    19: The sons of his Jewish wife, the sister of Naham, the father of Keilah, were Shimon the Garmite and Ishi the Maacathite. 
+    20: The sons of Shimon were Amnon, Rinnah, Benhanan, and Tilon. The son of Ishi was Zoheth and the son of Zoheth….
+
+    21: The sons of Shelah, son of Judah, were: Er, the father of Lecah; Laadah, the father of Mareshah; the clans of the linen weavers’ guild in Bethashbea; 
+    22: Jokim; the people of Cozeba; and Joash and Saraph, who held property in Moab, but returned to Bethlehem. (These are events of old.) 
+    23: They were potters and inhabitants of Netaim and Gederah, where they lived in the king’s service.
+Simeon. 
+    24: The sons of Simeon were Nemuel, Jamin, Jachin, Zerah, and Shaul, 
+    25: whose son was Shallum, whose son was Mibsam, whose son was Mishma. 
+    26: The sons of Mishma were his son Hammuel, whose son was Zaccur, whose son was Shimei. 
+    27: Shimei had sixteen sons and six daughters. His brothers, however, did not have many sons, and as a result all their clans did not equal the number of the Judahites.
+
+    28: They dwelt in Beer-sheba, Moladah, Hazar-shual, 
+    29: Bilhah, Ezem, Tolad, 
+    30: Bethuel, Hormah, Ziklag, 
+    31: Beth-marcaboth, Hazar-susim, Bethbiri, and Shaaraim. Until the reign of David, these were their cities 
+    32: and their villages. Etam, also, and Ain, Rimmon, Tochen, and Ashan—five cities, 
+    33: together with all their outlying villages as far as Baal. Here is where they dwelt, and so it was inscribed of them in their family records.
+
+    34: Meshobab, Jamlech, Joshah, son of Amaziah, 
+    35: Joel, Jehu, son of Joshibiah, son of Seraiah, son of Asiel, 
+    36: Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, 
+    37: Ziza, son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah— 
+    38: these just named were princes in their clans, and their ancestral houses spread out to such an extent 
+    39: that they went to the approaches of Gedor, east of the valley, seeking pasture for their flocks. 
+    40: They found abundant and good pastures, and the land was spacious, quiet, and peaceful—for the Hamites dwelt there formerly. 
+    41: They who have just been listed by name set out during the reign of Hezekiah, king of Judah, and attacked their tents and also the Meunites who were there. They put them under the ban that is still in force to this day and dwelt in their place because they found pasture there for their flocks.
+
+    42: Five hundred of them (the Simeonites) went to Mount Seir, with Pelatiah, Neariah, Rephaiah, and Uzziel, sons of Ishi, at their head. 
+    43: They attacked the surviving Amalekites who had escaped, and have lived there to the present day.
+
+
+End of day 89.
